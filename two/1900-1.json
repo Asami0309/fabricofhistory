@@ -1,0 +1,112 @@
+{
+  "nodes": [
+    {
+      "id": 1,
+      "name": ""
+    },
+    {
+      "id": 2,
+      "name": "Boots"
+    },
+    {
+      "id": 3,
+      "name": "Vest"
+    },
+    {
+      "id": 4,
+      "name": "Glove"
+    },
+    {
+      "id": 5,
+      "name": "Suit"
+    },
+    {
+      "id": 6,
+      "name": "Dress"
+    },
+    {
+      "id": 7,
+      "name": "coat"
+    },
+    {
+      "id": 8,
+      "name": "clogs"
+    },
+    {
+      "id": 9,
+      "name": "collar"
+    },
+    {
+      "id": 10,
+      "name": "shirt"
+    },
+    {
+      "id": 11,
+      "name": "stockings"
+    },
+    {
+      "id": 12,
+      "name": "bodice"
+    },
+    {
+      "id": 13,
+      "name": "　"
+    },
+    {
+      "id": 14,
+      "name": "　　"
+    },
+    {
+      "id": 15,
+      "name": "　　　"
+    },
+    {
+      "id": 16,
+      "name": "　　　　"
+    },
+    {
+      "id": 17,
+      "name": "　　　　　"
+    },
+    {
+      "id": 18,
+      "name": "　　　　　　"
+    },
+    {
+      "id": 19,
+      "name": "　　　　　　　"
+    },
+    {
+      "id": 20,
+      "name": "　　　　　　　　"
+    },
+    {
+      "id": 21,
+      "name": "　　　　　　　　　"
+    },
+    {
+      "id": 22,
+      "name": "　　　　　　　　　　"
+    },
+    {
+      "id": 23,
+      "name": "　　　　　　　　　　　"
+    },
+    {
+      "id": 24,
+      "name": "　　　　　　　　　　　　"
+    }
+  ],
+  "links": [
+
+    {
+      "source": 1,
+      "target": 7
+
+    },
+    {
+      "source": 1,
+      "target": 9
+    }
+  ]
+}
