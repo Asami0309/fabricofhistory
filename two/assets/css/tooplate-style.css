@@ -25,6 +25,11 @@ body {
 
 
 /* Basic */
+.howto{
+  /* width:80%; */
+  bottom:0;
+}
+
 
 .tooltip{
     background-color: white;
@@ -804,7 +809,7 @@ section.contact-me {
     }
 
     .menu2 .author-content {
-        margin: 27px 0px 0px 0px;
+        margin: 120px 0px 30px 0px;
     }
 
     .menu2 .container {
