@@ -2,108 +2,171 @@
   "nodes": [
     {
       "id": 1,
-      "name": ""
+      "name": "",
+      "titel":"",
+      "url":"",
+      "img":""
     },
     {
       "id": 2,
-      "name": "Boots"
-      ,
-      "siteimg":"https://api.europeana.eu/thumbnail/v2/url.json?uri=http%3A%2F%2Fmedia.vam.ac.uk%2Fmedia%2Fthira%2Fcollection_images%2F2014HJ%2F2014HJ2813_jpg_l.jpg&type=IMAGE" ,
-    "siteurl":"https://www.europeana.eu/item/2048213/europeana_fashion_http___collections_vam_ac_uk_item_O15645?utm_source=api&utm_medium=api&utm_campaign=arthappis"
+      "name": "Boots",
+      "titel":"",
+      "url":"",
+      "img":""
     },
     {
       "id": 3,
       "name": "Vest",
-      "siteimg":"https://api.europeana.eu/thumbnail/v2/url.json?uri=http%3A%2F%2Fmedia.vam.ac.uk%2Fmedia%2Fthira%2Fcollection_images%2F2014HJ%2F2014HJ2813_jpg_l.jpg&type=IMAGE" ,
-    "siteurl":"https://www.europeana.eu/item/2048213/europeana_fashion_http___collections_vam_ac_uk_item_O15645?utm_source=api&utm_medium=api&utm_campaign=arthappis"
+      "titel":"",
+      "url":"",
+      "img":""
     },
     {
       "id": 4,
       "name": "Glove",
-      "siteimg":"https://api.europeana.eu/thumbnail/v2/url.json?uri=http%3A%2F%2Fmedia.vam.ac.uk%2Fmedia%2Fthira%2Fcollection_images%2F2014HJ%2F2014HJ2813_jpg_l.jpg&type=IMAGE" ,
-    "siteurl":"https://www.europeana.eu/item/2048213/europeana_fashion_http___collections_vam_ac_uk_item_O15645?utm_source=api&utm_medium=api&utm_campaign=arthappis"
+      "titel":"",
+      "url":"",
+      "img":""
     },
     {
       "id": 5,
       "name": "Suit",
-      "siteimg":"https://api.europeana.eu/thumbnail/v2/url.json?uri=http%3A%2F%2Fmedia.vam.ac.uk%2Fmedia%2Fthira%2Fcollection_images%2F2014HJ%2F2014HJ2813_jpg_l.jpg&type=IMAGE" ,
-    "siteurl":"https://www.europeana.eu/item/2048213/europeana_fashion_http___collections_vam_ac_uk_item_O15645?utm_source=api&utm_medium=api&utm_campaign=arthappis"
+      "titel":"",
+      "url":"",
+      "img":""
     },
     {
       "id": 6,
-      "name": "Dress"
+      "name": "Dress",
+      "titel":"",
+      "url":"",
+      "img":""
     },
     {
       "id": 7,
-      "name": "coat"
+      "name": "coat",
+      "titel":"",
+      "url":"",
+      "img":""
     },
     {
       "id": 8,
-      "name": "clogs"
+      "name": "clogs",
+      "titel":"",
+      "url":"",
+      "img":""
     },
     {
       "id": 9,
-      "name": "collar"
+      "name": "collar",
+      "titel":"",
+      "url":"",
+      "img":""
     },
     {
       "id": 10,
-      "name": "shirt"
+      "name": "shirt",
+      "titel":"",
+      "url":"",
+      "img":""
     },
     {
       "id": 11,
-      "name": "stockings"
+      "name": "stockings",
+      "titel":"",
+      "url":"",
+      "img":""
     },
     {
       "id": 12,
-      "name": "bodice"
+      "name": "bodice",
+      "titel":"",
+      "url":"",
+      "img":""
     },
     {
       "id": 13,
-      "name": "　"
+      "name": "　",
+      "titel":"",
+      "url":"",
+      "img":""
     },
     {
       "id": 14,
-      "name": "　　"
+      "name": "　　",
+      "titel":"",
+      "url":"",
+      "img":""
     },
     {
       "id": 15,
-      "name": "　　　"
+      "name": "　　　",
+      "titel":"",
+      "url":"",
+      "img":""
     },
     {
       "id": 16,
-      "name": "　　　　"
+      "name": "　　　　",
+      "titel":"",
+      "url":"",
+      "img":""
     },
     {
       "id": 17,
-      "name": "　　　　　"
+      "name": "　　　　　",
+      "titel":"",
+      "url":"",
+      "img":""
     },
     {
       "id": 18,
-      "name": "　　　　　　"
+      "name": "　　　　　　",
+      "titel":"",
+      "url":"",
+      "img":""
     },
     {
       "id": 19,
-      "name": "　　　　　　　"
+      "name": "　　　　　　　",
+      "titel":"",
+      "url":"",
+      "img":""
     },
     {
       "id": 20,
-      "name": "　　　　　　　　"
+      "name": "　　　　　　　　",
+      "titel":"",
+      "url":"",
+      "img":""
     },
     {
       "id": 21,
-      "name": "　　　　　　　　　"
+      "name": "　　　　　　　　　",
+      "titel":"",
+      "url":"",
+      "img":""
     },
     {
       "id": 22,
-      "name": "　　　　　　　　　　"
+      "name": "　　　　　　　　　　",
+      "titel":"",
+      "url":"",
+      "img":""
     },
     {
       "id": 23,
-      "name": "　　　　　　　　　　　"
+      "name": "　　　　　　　　　　　",
+      "titel":"",
+      "url":"",
+      "img":""
     },
     {
       "id": 24,
-      "name": "　　　　　　　　　　　　"
+      "name": "　　　　　　　　　　　　",
+      "titel":"",
+      "url":"",
+      "img":""
     }
   ],
   "links": [

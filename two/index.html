@@ -41,11 +41,13 @@
     float: left;
     position: relative;
     margin-top: -30px;
+    width:160px;
 }
   #my_dataviz2, #my_dataviz3, #my_dataviz4, #my_dataviz5, #my_dataviz6, #my_dataviz7, #my_dataviz8, #my_dataviz9, #my_dataviz10{
     position: relative;
     margin-left: 100px;
     margin-top: -30px;
+    width:160px;
   }
 #graphic{
   margin-left: 12px;
@@ -118,6 +120,7 @@ https://www.tooplate.com/view/2116-blugoon
 
         <div id="menu" class="menu2">
           <div class="container">
+
             <div class="author-content">
 
             <div class="image">
@@ -127,7 +130,10 @@ https://www.tooplate.com/view/2116-blugoon
               <text class="titel">Sybille</text>
             <text class="year">1935</text>
           </div>
-            <a href="https://www.europeana.eu/item/2048213/europeana_fashion_http___collections_vam_ac_uk_item_O15645?utm_source=api&utm_medium=api&utm_campaign=arthappis" class="btn btn--orange">To the Page</a>
+            <a href="https://www.europeana.eu/item/2048213/europeana_fashion_http___collections_vam_ac_uk_item_O15645?utm_source=api&utm_medium=api&utm_campaign=arthappis" class="btn btn--orange">Go to the Page</a>
+          </div>
+          <div class="howto">
+            <img src="../assets/images/howto.png" alt="how to lead" />
           </div>
           </div>
         </div>
@@ -149,17 +155,17 @@ https://www.tooplate.com/view/2116-blugoon
         </div>
 
             <div id="graphic">
-            <svg id="line" width="3100" height="70"></svg>
-            <svg id="my_dataviz" width="160" ></svg>
-            <svg id="my_dataviz2" width="160" ></svg>
-            <svg id="my_dataviz3" width="160"></svg>
-            <svg id="my_dataviz4" width="160" ></svg>
-            <svg id="my_dataviz5" width="160" ></svg>
-            <svg id="my_dataviz6" width="160" ></svg>
-            <svg id="my_dataviz7" width="160" ></svg>
-            <svg id="my_dataviz8" width="160" ></svg>
-            <svg id="my_dataviz9" width="160" ></svg>
-            <svg id="my_dataviz10" width="160"></svg>
+            <svg id="line" width="3030" height="70"></svg>
+            <svg id="my_dataviz"  ></svg>
+            <svg id="my_dataviz2" ></svg>
+            <svg id="my_dataviz3" ></svg>
+            <svg id="my_dataviz4" ></svg>
+            <svg id="my_dataviz5" ></svg>
+            <svg id="my_dataviz6" ></svg>
+            <svg id="my_dataviz7" ></svg>
+            <svg id="my_dataviz8" ></svg>
+            <svg id="my_dataviz9" ></svg>
+            <svg id="my_dataviz10" ></svg>
           </div>
 
 
@@ -265,32 +271,32 @@ https://www.tooplate.com/view/2116-blugoon
 
     // append the svg object to the body of the page
 
-var svgs = [];
-for (var i = 0; i < 10; i +=1) {
-  svgs.push(
-    d3.select("#my_dataviz" + i)
-      .append("svg")
-      .attr("width", width + margin.left + margin.right)
-      .attr("height", height + margin.top + margin.bottom)
-      .append("g")
-      .attr("transform",
-            "translate(" + margin.left + "," + margin.top + ")")
-  );
-}
+// var svgs = [];
+// for (var i = 0; i < 10; i +=1) {
+//   svgs.push(
+//     d3.select("#my_dataviz" + i)
+//       .append("svg")
+//       .attr("width", width + margin.left + margin.right)
+//       .attr("height", height + margin.top + margin.bottom)
+//       .append("g")
+//       .attr("transform",
+//             "translate(" + margin.left + "," + margin.top + ")")
+//   );
+// }
+//
+// svgs[4]
 
-svgs[10]
 
-
-createVis("../two/1900-1.json", "../two/1900-2.json", "#my_dataviz")
-createVis("../two/1910-1.json", "../two/1910-2.json", "#my_dataviz2")
-createVis("../two/1920-1.json", "../two/1920-2.json", "#my_dataviz3")
-createVis("../two/1930-1.json", "../two/1930-2.json", "#my_dataviz4")
-createVis("../two/1940-1.json", "../two/1940-2.json", "#my_dataviz5")
-createVis("../two/1950-1.json", "../two/1950-2.json", "#my_dataviz6")
-createVis("../two/1960-1.json", "../two/1960-2.json", "#my_dataviz7")
-createVis("../two/1970-1.json", "../two/1970-2.json", "#my_dataviz8")
-createVis("../two/1980-1.json", "../two/1980-2.json", "#my_dataviz9")
-createVis("../two/1990-1.json", "../two/1990-2.json", "#my_dataviz10")
+createVis("../1900-1.json", "../1900-2.json", "#my_dataviz")
+createVis("../1910-1.json", "../1910-2.json", "#my_dataviz2")
+createVis("../1920-1.json", "../1920-2.json", "#my_dataviz3")
+createVis("../1930-1.json", "../1930-2.json", "#my_dataviz4")
+createVis("../1940-1.json", "../1940-2.json", "#my_dataviz5")
+createVis("../1950-1.json", "../1950-2.json", "#my_dataviz6")
+createVis("../1960-1.json", "../1960-2.json", "#my_dataviz7")
+createVis("../1970-1.json", "../1970-2.json", "#my_dataviz8")
+createVis("../1980-1.json", "../1980-2.json", "#my_dataviz9")
+createVis("../1990-1.json", "../1990-2.json", "#my_dataviz10")
 
 function createVis(dataset1, dataset2, target) {
   var svg = d3.select(target)
@@ -320,11 +326,12 @@ function createVis(dataset1, dataset2, target) {
  }
  var mousemove = function(d) {
    Tooltip
-   .selectAll('mylinks')
-   .data(data.nodes)
-   .enter()
-   .append("text")
-     .text(function (d) { return d })
+   .html("Titel: " + d.titel + "url:" + d.url + "image:" + d.url)
+   // .selectAll('mylinks')
+   // .data(data.nodes)
+   // .enter()
+   // .append("text")
+   //   .text(function (d) { return d })
      // .attr('class', 'inf')
      // .html("name : " + d.name + "<br>value : " + d.id);
      .style("alignment-baseline", "start")
