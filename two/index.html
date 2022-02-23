@@ -327,17 +327,8 @@ function createVis(dataset1, dataset2, target) {
  var mousemove = function(d) {
    Tooltip
    .html("Titel: " + d.titel + "url:" + d.url + "image:" + d.url)
-   // .selectAll('mylinks')
-   // .data(data.nodes)
-   // .enter()
-   // .append("text")
-   //   .text(function (d) { return d })
-     // .attr('class', 'inf')
-     // .html("name : " + d.name + "<br>value : " + d.id);
      .style("alignment-baseline", "start")
      .style("fill", "black")
-    // .html("The exact value of<br>this cell is: " + d.value)
-     // .text(function(d){ return(d.name)} )
  }
  var mouseleave = function(d) {
    Tooltip
@@ -349,6 +340,10 @@ function createVis(dataset1, dataset2, target) {
      .attr("stroke-width",0.5)
  }
 
+  d3.selectAll("path").on("mousemove", function(d){
+ d3.selectAll("path").filter(function(D){return D.titel == d.titel}) 
+ .style("fill", "red")
+ })
 
 // ----------------line SVG
     // Read dummy data
