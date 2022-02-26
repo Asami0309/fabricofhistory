@@ -29,6 +29,17 @@ body {
   /* width:80%; */
   bottom:0;
 }
+.howto p{
+  height: 32px;
+      line-height: 25px;
+      display: inline-block;
+      /* font-size: 14px; */
+      font-weight: 100;
+      color: black;
+      width: 100%;
+      transition: all 0.5s;
+      margin-top: 17px;
+}
 
 .dec{
   width: 275px;
@@ -45,13 +56,16 @@ body {
 }
 
 .tooltip{
-    background-color: white;
+  color: black;
+    width: 150px;
+     box-shadow: 2px 2px 4px gray;
+    /* background-color: white;
     border: 2px solid;
     border-radius: 5px;
     padding: 5px;
     color: black;
     width: 150px;
-    height: 150px;
+    height: 150px; */
   /* padding:100px;
   position: fixed;
   right:480px;
@@ -224,8 +238,7 @@ html {
 }
 
 .menu2 .image img, .menu .image img {
-    width: 160px;
-    height: 160px;
+    width: 205px;
     border-radius: 2%;
     text-align: center;
 }
@@ -819,13 +832,13 @@ section.contact-me {
         margin-bottom: 10px;
     }
 
-    .menu2 .image img {
+    /* .menu2 .image img {
         width: 150px;
         height:150px;
-    }
+    } */
 
     .menu2 .author-content {
-        margin: 120px 0px 30px 0px;
+        margin: 12px 0px 30px 0px;
     }
 
     .menu2 .container {
