@@ -30,6 +30,19 @@ body {
   bottom:0;
 }
 
+.dec{
+  width: 275px;
+      padding: 0;
+      /* margin-left: 89px; */
+      list-style: none;
+      margin-top: -7px;
+      padding-right: 416px;
+      display: inline;
+      color: black;
+      /* margin-right: 409px; */
+      font-weight: 300;
+      margin-left: -12px;
+}
 
 .tooltip{
     background-color: white;
@@ -37,10 +50,12 @@ body {
     border-radius: 5px;
     padding: 5px;
     color: black;
-  padding:100px;
+    width: 150px;
+    height: 150px;
+  /* padding:100px;
   position: fixed;
   right:480px;
-  top:100px;
+  top:100px; */
 }
 .btn--orange,
 a.btn--orange {
@@ -718,7 +733,8 @@ section.contact-me {
 
     .section {
         color: #fff;
-        width: 200%;
+        width: 370%;
+        height: 200%;
     overflow: visible;
 
     }
