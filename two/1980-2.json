@@ -86,56 +86,56 @@
     },
     {
       "id": 13,
-      "name": "8888test",
+      "name": "Bruce Oldfield",
       "titel": "description1",
       "url":"https://www.europeana.eu/item/2048213/europeana_fashion_http___collections_vam_ac_uk_item_O15645?utm_source=api&utm_medium=api&utm_campaign=arthappis" ,
     "img":"https://api.europeana.eu/thumbnail/v2/url.json?uri=http%3A%2F%2Fmedia.vam.ac.uk%2Fmedia%2Fthira%2Fcollection_images%2F2014HJ%2F2014HJ2813_jpg_l.jpg&type=IMAGE"
     },
     {
       "id": 14,
-      "name": "test1",
+      "name": "Caroline Charles",
       "titel": "description2",
       "url":"https://www.europeana.eu/item/2048213/europeana_fashion_http___collections_vam_ac_uk_item_O93231?utm_source=api&utm_medium=api&utm_campaign=arthappis",
       "img":"https://api.europeana.eu/thumbnail/v2/url.json?uri=http%3A%2F%2Fmedia.vam.ac.uk%2Fmedia%2Fthira%2Fcollection_images%2F2006AL%2F2006AL0566_jpg_l.jpg&type=IMAGE"
     },
     {
       "id": 15,
-      "name": "test2",
+      "name": "Gianni Versace",
       "titel": "description3",
       "url":"https://www.europeana.eu/item/2048213/europeana_fashion_http___collections_vam_ac_uk_item_O15645?utm_source=api&utm_medium=api&utm_campaign=arthappis" ,
     "img":"https://api.europeana.eu/thumbnail/v2/url.json?uri=http%3A%2F%2Fmedia.vam.ac.uk%2Fmedia%2Fthira%2Fcollection_images%2F2014HJ%2F2014HJ2813_jpg_l.jpg&type=IMAGE"
     },
     {
       "id": 16,
-      "name": "test3",
+      "name": " Margaret Howell",
       "titel": "description4",
       "url":"https://www.europeana.eu/item/2048213/europeana_fashion_http___collections_vam_ac_uk_item_O93231?utm_source=api&utm_medium=api&utm_campaign=arthappis",
       "img":"https://api.europeana.eu/thumbnail/v2/url.json?uri=http%3A%2F%2Fmedia.vam.ac.uk%2Fmedia%2Fthira%2Fcollection_images%2F2006AL%2F2006AL0566_jpg_l.jpg&type=IMAGE"
     },
     {
       "id": 17,
-      "name": "test4",
+      "name": "Sarah Whitworth",
       "titel": "description5",
       "url":"https://www.europeana.eu/item/2048213/europeana_fashion_http___collections_vam_ac_uk_item_O15645?utm_source=api&utm_medium=api&utm_campaign=arthappis" ,
     "img":"https://api.europeana.eu/thumbnail/v2/url.json?uri=http%3A%2F%2Fmedia.vam.ac.uk%2Fmedia%2Fthira%2Fcollection_images%2F2014HJ%2F2014HJ2813_jpg_l.jpg&type=IMAGE"
     },
     {
       "id": 18,
-      "name": "test5",
+      "name": "Smith Paul",
       "titel": "description6",
       "url":"https://www.europeana.eu/item/2048213/europeana_fashion_http___collections_vam_ac_uk_item_O93231?utm_source=api&utm_medium=api&utm_campaign=arthappis",
       "img":"https://api.europeana.eu/thumbnail/v2/url.json?uri=http%3A%2F%2Fmedia.vam.ac.uk%2Fmedia%2Fthira%2Fcollection_images%2F2006AL%2F2006AL0566_jpg_l.jpg&type=IMAGE"
     },
     {
       "id": 19,
-      "name": "test6",
+      "name": "Tommy Nutter",
       "titel": "description7",
       "url":"https://www.europeana.eu/item/2048213/europeana_fashion_http___collections_vam_ac_uk_item_O15645?utm_source=api&utm_medium=api&utm_campaign=arthappis" ,
     "img":"https://api.europeana.eu/thumbnail/v2/url.json?uri=http%3A%2F%2Fmedia.vam.ac.uk%2Fmedia%2Fthira%2Fcollection_images%2F2014HJ%2F2014HJ2813_jpg_l.jpg&type=IMAGE"
     },
     {
       "id": 20,
-      "name": "　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　",
+      "name": "Vivienne Westwood",
       "titel":"",
       "url":"",
       "img":""
@@ -173,53 +173,99 @@
 
     {
       "source": 9,
-      "target": 13
-
-    },
-    {
-      "source": 4,
-      "target": 13
+      "target": 13,
+      "name": "Bruce Oldfield ",
+      "titel":"Silk velvet double-breasted coat-dress with mink collar, designed by Bruce Oldfield, Great Britain, 1986.",
+      "url":"https://www.europeana.eu/item/2048213/europeana_fashion_http___collections_vam_ac_uk_item_O83557?utm_source=api&utm_medium=api&utm_campaign=arthappis",
+      "img":"https://api.europeana.eu/thumbnail/v2/url.json?uri=http%3A%2F%2Fmedia.vam.ac.uk%2Fmedia%2Fthira%2Fcollection_images%2F2011EN%2F2011EN2394_jpg_l.jpg&type=IMAGE"
     },
     {
       "source": 7,
-      "target": 13
-    },{
-      "source": 6,
-      "target": 14
-
+      "target": 13,
+      "name": "Bruce Oldfield ",
+      "titel":"Silk velvet double-breasted coat-dress with mink collar, designed by Bruce Oldfield, Great Britain, 1986.",
+      "url":"https://www.europeana.eu/item/2048213/europeana_fashion_http___collections_vam_ac_uk_item_O83557?utm_source=api&utm_medium=api&utm_campaign=arthappis",
+      "img":"https://api.europeana.eu/thumbnail/v2/url.json?uri=http%3A%2F%2Fmedia.vam.ac.uk%2Fmedia%2Fthira%2Fcollection_images%2F2011EN%2F2011EN2394_jpg_l.jpg&type=IMAGE"
     },
     {
-      "source": 6,
-      "target": 15
+      "source": 9,
+      "target": 14,
+      "name": "Caroline Charles",
+      "titel":"Orange wool crêpe coat, designed by Caroline Charles, Great Britain, 1989.",
+      "url":"https://www.europeana.eu/item/2048213/europeana_fashion_http___collections_vam_ac_uk_item_O83981?utm_source=api&utm_medium=api&utm_campaign=arthappis",
+      "img":"https://api.europeana.eu/thumbnail/v2/url.json?uri=http%3A%2F%2Fmedia.vam.ac.uk%2Fmedia%2Fthira%2Fcollection_images%2F2006AT%2F2006AT5002_jpg_l.jpg&type=IMAGE"
+    },
+    {
+      "source": 7,
+      "target": 14,
+      "name": "Caroline Charles",
+      "titel":"Orange wool crêpe coat, designed by Caroline Charles, Great Britain, 1989.",
+      "url":"https://www.europeana.eu/item/2048213/europeana_fashion_http___collections_vam_ac_uk_item_O83981?utm_source=api&utm_medium=api&utm_campaign=arthappis",
+      "img":"https://api.europeana.eu/thumbnail/v2/url.json?uri=http%3A%2F%2Fmedia.vam.ac.uk%2Fmedia%2Fthira%2Fcollection_images%2F2006AT%2F2006AT5002_jpg_l.jpg&type=IMAGE"
     },
     {
       "source": 5,
-      "target": 16
+      "target": 15,
+      "name": "Gianni Versace",
+      "titel":"Ensemble, M, 1985, Italian; Versace, Gianni.  Black and white cotton.",
+      "url":"https://www.europeana.eu/item/2048213/europeana_fashion_http___collections_vam_ac_uk_item_O233298?utm_source=api&utm_medium=api&utm_campaign=arthappis",
+      "img":"https://api.europeana.eu/thumbnail/v2/url.json?uri=http%3A%2F%2Fmedia.vam.ac.uk%2Fmedia%2Fthira%2Fcollection_images%2F2013GK%2F2013GK2384_jpg_l.jpg&type=IMAGE"
     },
     {
-      "source": 9,
-      "target": 16
-
+      "source": 10,
+      "target": 15,
+      "name": "Gianni Versace",
+      "titel":"Men's striped cotton shirt, designed by Gianni Versace, Italy, 1982.  Cotton.",
+      "url":"https://www.europeana.eu/item/2048213/europeana_fashion_http___collections_vam_ac_uk_item_O366392?utm_source=api&utm_medium=api&utm_campaign=arthappis",
+      "img":"https://api.europeana.eu/thumbnail/v2/url.json?uri=http%3A%2F%2Fmedia.vam.ac.uk%2Fmedia%2Fthira%2Fcollection_images%2F2012FH%2F2012FH5244_jpg_l.jpg&type=IMAGE"
     },
     {
-      "source": 7,
-      "target": 16
+      "source": 3,
+      "target": 16,
+      "name": "Margaret Howell",
+      "titel":"Ensemble, F, 1983, British; Howell, Margaret.  Skirt: brown linen; top: green cotton; vest: blue linen.",
+      "url":"https://www.europeana.eu/item/2048213/europeana_fashion_http___collections_vam_ac_uk_item_O15592?utm_source=api&utm_medium=api&utm_campaign=arthappis",
+      "img":"https://api.europeana.eu/thumbnail/v2/url.json?uri=http%3A%2F%2Fmedia.vam.ac.uk%2Fmedia%2Fthira%2Fcollection_images%2F2006AV%2F2006AV6065_jpg_l.jpg&type=IMAGE"
     },
     {
-      "source": 6,
-      "target": 17
+      "source": 5,
+      "target": 17,
+      "name": "Sarah Whitworth",
+      "titel":"Skirt suit, grey cotton with broken glass and skeleton print, by Sarah Whitworth for New Masters, Great Britain, 1983. Jacket, grey cotton with spider and skeleton print, by Sarah Whitworth's label New Masters, Great Britain, 1983; Skirt, grey cotton with spider and skeleton print, by Sarah Whitworth's label New Masters, Great Britain, 1983. Grey cotton skirt suit with broken glass and skeleton print. Grey cotton bolero style jacket with spider and skeleton print. Grey cotton skirt with spider and skeleton print, and back bustle formed of a swag of sheer black nylon. Grey cotton and sheer black nylon; Grey cotton.",
+      "url":"https://www.europeana.eu/item/2048213/europeana_fashion_http___collections_vam_ac_uk_item_O1242756?utm_source=api&utm_medium=api&utm_campaign=arthappis",
+      "img":"https://api.europeana.eu/thumbnail/v2/url.json?uri=http%3A%2F%2Fmedia.vam.ac.uk%2Fmedia%2Fthira%2Fcollection_images%2F2012FM%2F2012FM6964_jpg_l.jpg&type=IMAGE"
     },
     {
-      "source": 7,
-      "target": 18
+      "source": 5,
+      "target": 18,
+      "name": "Smith, Paul",
+      "titel":"Cotton twill shirt, designed by Paul Smith, Great Britain, 1988.  White collared shirt of cotton twill with hidden button-down. Cotton twill.",
+      "url":"https://www.europeana.eu/item/2048213/europeana_fashion_http___collections_vam_ac_uk_item_O1193486?utm_source=api&utm_medium=api&utm_campaign=arthappis",
+      "img":"https://api.europeana.eu/thumbnail/v2/url.json?uri=http%3A%2F%2Fmedia.vam.ac.uk%2Fmedia%2Fthira%2Fcollection_images%2F2006AT%2F2006AT4926_jpg_l.jpg&type=IMAGE"
     },
     {
-      "source": 9,
-      "target": 18
+      "source": 5,
+      "target": 19,
+      "name": "Tommy Nutter",
+      "titel":"Pin-striped three-piece suit consisting of a jacket, waistcoat and trousers in wool with cotton and silk, Tommy Nutter, London, 1983.",
+      "url":"https://www.europeana.eu/item/2048213/europeana_fashion_http___collections_vam_ac_uk_item_O15611?utm_source=api&utm_medium=api&utm_campaign=arthappis",
+      "img":"https://api.europeana.eu/thumbnail/v2/url.json?uri=http%3A%2F%2Fmedia.vam.ac.uk%2Fmedia%2Fthira%2Fcollection_images%2F2011FA%2F2011FA8422_jpg_l.jpg&type=IMAGE"
     },
     {
-      "source": 6,
-      "target": 19
+      "source": 3,
+      "target": 19,
+      "name": "Tommy Nutter",
+      "titel":"Pin-striped three-piece suit consisting of a jacket, waistcoat and trousers in wool with cotton and silk, Tommy Nutter, London, 1983.",
+      "url":"https://www.europeana.eu/item/2048213/europeana_fashion_http___collections_vam_ac_uk_item_O15611?utm_source=api&utm_medium=api&utm_campaign=arthappis",
+      "img":"https://api.europeana.eu/thumbnail/v2/url.json?uri=http%3A%2F%2Fmedia.vam.ac.uk%2Fmedia%2Fthira%2Fcollection_images%2F2011FA%2F2011FA8422_jpg_l.jpg&type=IMAGE"
+    },
+    {
+      "source": 5,
+      "target": 20,
+      "name": "Vivienne Westwood",
+      "titel":"Time Machine",
+      "url":"https://www.europeana.eu/item/2048213/europeana_fashion_http___collections_vam_ac_uk_item_O84730?utm_source=api&utm_medium=api&utm_campaign=arthappis",
+      "img":"https://api.europeana.eu/thumbnail/v2/url.json?uri=http%3A%2F%2Fmedia.vam.ac.uk%2Fmedia%2Fthira%2Fcollection_images%2F2006AN%2F2006AN3668_jpg_l.jpg&type=IMAGE"
     }
   ]
-}
+  }

@@ -173,25 +173,43 @@
 
     {
       "source": 1,
-      "target": 4
-
+      "target": 4,
+      "name": "Elsa Schiaparelli ",
+      "titel":"Pair of satin mittens, designed by Schiaparelli, Paris, 1938.",
+      "url":"https://www.europeana.eu/item/2048213/europeana_fashion_http___collections_vam_ac_uk_item_O139196?utm_source=api&utm_medium=api&utm_campaign=arthappis",
+      "img":"https://api.europeana.eu/thumbnail/v2/url.json?uri=http%3A%2F%2Fmedia.vam.ac.uk%2Fmedia%2Fthira%2Fcollection_images%2F2014HJ%2F2014HJ2813_jpg_l.jpg&type=IMAGE"
+      },
+    {
+      "source": 1,
+      "target": 12,
+      "name": "Nicole Groult",
+      "titel":"Ensemble; F, ca. 1932; French; Groult, Nicole. Skirt: black, white stripe. BC152; bodice: red/pink, embroidered; jacket: black, white woven silk.",
+      "url":"https://www.europeana.eu/item/2048213/europeana_fashion_http___collections_vam_ac_uk_item_O93231?utm_source=api&utm_medium=api&utm_campaign=arthappis",
+      "img":"https://api.europeana.eu/thumbnail/v2/url.json?uri=http%3A%2F%2Fmedia.vam.ac.uk%2Fmedia%2Fthira%2Fcollection_images%2F2006AL%2F2006AL0566_jpg_l.jpg&type=IMAGE"
     },
     {
       "source": 1,
-      "target": 8
+      "target": 6,
+      "name": "Peter Russell",
+      "titel":"Evening ensemble consisting of embroidered crêpe dress and wool coat, designed by Peter Russell, London, 1937.",
+      "url":"https://www.europeana.eu/item/2048213/europeana_fashion_http___collections_vam_ac_uk_item_O16787?utm_source=api&utm_medium=api&utm_campaign=arthappis",
+      "img":"https://api.europeana.eu/thumbnail/v2/url.json?uri=http%3A%2F%2Fmedia.vam.ac.uk%2Fmedia%2Fthira%2Fcollection_images%2F2006AV%2F2006AV6225_jpg_l.jpg&type=IMAGE"
     },
     {
       "source": 1,
-      "target": 6
+      "target": 9,
+      "name": "Peter Russell",
+      "titel":"Evening ensemble consisting of embroidered crêpe dress and wool coat, designed by Peter Russell, London, 1937.",
+      "url":"https://www.europeana.eu/item/2048213/europeana_fashion_http___collections_vam_ac_uk_item_O16787?utm_source=api&utm_medium=api&utm_campaign=arthappis",
+      "img":"https://api.europeana.eu/thumbnail/v2/url.json?uri=http%3A%2F%2Fmedia.vam.ac.uk%2Fmedia%2Fthira%2Fcollection_images%2F2006AV%2F2006AV6225_jpg_l.jpg&type=IMAGE"
     },
     {
       "source": 1,
-      "target": 10
-    },
-    {
-      "source": 1,
-      "target": 7
-
-}
+      "target": 7,
+      "name": "Peter Russell",
+      "titel":"Evening ensemble consisting of embroidered crêpe dress and wool coat, designed by Peter Russell, London, 1937.",
+      "url":"https://www.europeana.eu/item/2048213/europeana_fashion_http___collections_vam_ac_uk_item_O16787?utm_source=api&utm_medium=api&utm_campaign=arthappis",
+      "img":"https://api.europeana.eu/thumbnail/v2/url.json?uri=http%3A%2F%2Fmedia.vam.ac.uk%2Fmedia%2Fthira%2Fcollection_images%2F2006AV%2F2006AV6225_jpg_l.jpg&type=IMAGE"
+    }
   ]
 }

@@ -86,56 +86,56 @@
     },
     {
       "id": 13,
-      "name": "4444test",
+      "name": "Antoine",
       "titel": "description1",
       "url":"https://www.europeana.eu/item/2048213/europeana_fashion_http___collections_vam_ac_uk_item_O15645?utm_source=api&utm_medium=api&utm_campaign=arthappis" ,
     "img":"https://api.europeana.eu/thumbnail/v2/url.json?uri=http%3A%2F%2Fmedia.vam.ac.uk%2Fmedia%2Fthira%2Fcollection_images%2F2014HJ%2F2014HJ2813_jpg_l.jpg&type=IMAGE"
     },
     {
       "id": 14,
-      "name": "test1",
+      "name": "Creed Charles",
       "titel": "description2",
       "url":"https://www.europeana.eu/item/2048213/europeana_fashion_http___collections_vam_ac_uk_item_O93231?utm_source=api&utm_medium=api&utm_campaign=arthappis",
       "img":"https://api.europeana.eu/thumbnail/v2/url.json?uri=http%3A%2F%2Fmedia.vam.ac.uk%2Fmedia%2Fthira%2Fcollection_images%2F2006AL%2F2006AL0566_jpg_l.jpg&type=IMAGE"
     },
     {
       "id": 15,
-      "name": "test2",
+      "name": "Dior Christian",
       "titel": "description3",
       "url":"https://www.europeana.eu/item/2048213/europeana_fashion_http___collections_vam_ac_uk_item_O15645?utm_source=api&utm_medium=api&utm_campaign=arthappis" ,
     "img":"https://api.europeana.eu/thumbnail/v2/url.json?uri=http%3A%2F%2Fmedia.vam.ac.uk%2Fmedia%2Fthira%2Fcollection_images%2F2014HJ%2F2014HJ2813_jpg_l.jpg&type=IMAGE"
     },
     {
       "id": 16,
-      "name": "test3",
+      "name": "Hardy Amies",
       "titel": "description4",
       "url":"https://www.europeana.eu/item/2048213/europeana_fashion_http___collections_vam_ac_uk_item_O93231?utm_source=api&utm_medium=api&utm_campaign=arthappis",
       "img":"https://api.europeana.eu/thumbnail/v2/url.json?uri=http%3A%2F%2Fmedia.vam.ac.uk%2Fmedia%2Fthira%2Fcollection_images%2F2006AL%2F2006AL0566_jpg_l.jpg&type=IMAGE"
     },
     {
       "id": 17,
-      "name": "test4",
+      "name": "Incorporated Society of London Fashion Designers",
       "titel": "description5",
       "url":"https://www.europeana.eu/item/2048213/europeana_fashion_http___collections_vam_ac_uk_item_O15645?utm_source=api&utm_medium=api&utm_campaign=arthappis" ,
       "img":"https://api.europeana.eu/thumbnail/v2/url.json?uri=http%3A%2F%2Fmedia.vam.ac.uk%2Fmedia%2Fthira%2Fcollection_images%2F2014HJ%2F2014HJ2813_jpg_l.jpg&type=IMAGE"
       },
     {
       "id": 18,
-      "name": "test5",
+      "name": "Jacques Fath",
       "titel": "description6",
       "url":"https://www.europeana.eu/item/2048213/europeana_fashion_http___collections_vam_ac_uk_item_O93231?utm_source=api&utm_medium=api&utm_campaign=arthappis",
       "img":"https://api.europeana.eu/thumbnail/v2/url.json?uri=http%3A%2F%2Fmedia.vam.ac.uk%2Fmedia%2Fthira%2Fcollection_images%2F2006AL%2F2006AL0566_jpg_l.jpg&type=IMAGE"
     },
     {
       "id": 19,
-      "name": "test6",
+      "name": "Morton Digby",
       "titel": "description7",
       "url":"https://www.europeana.eu/item/2048213/europeana_fashion_http___collections_vam_ac_uk_item_O15645?utm_source=api&utm_medium=api&utm_campaign=arthappis" ,
     "img":"https://api.europeana.eu/thumbnail/v2/url.json?uri=http%3A%2F%2Fmedia.vam.ac.uk%2Fmedia%2Fthira%2Fcollection_images%2F2014HJ%2F2014HJ2813_jpg_l.jpg&type=IMAGE"
     },
     {
       "id": 20,
-      "name": "　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　",
+      "name": "Victor Stiebel",
       "titel":"",
       "url":"",
       "img":""
@@ -172,54 +172,116 @@
   "links": [
 
     {
-      "source": 9,
-      "target": 13
-
+      "source": 4,
+      "target": 13,
+      "name": "Antoine",
+      "titel": "Lady's ensemble, Zurich, 1949.",
+      "url":"https://www.europeana.eu/item/2048213/europeana_fashion_http___collections_vam_ac_uk_item_O320048?utm_source=api&utm_medium=api&utm_campaign=arthappis" ,
+    "img":"https://api.europeana.eu/thumbnail/v2/url.json?uri=http%3A%2F%2Fmedia.vam.ac.uk%2Fmedia%2Fthira%2Fcollection_images%2F2014HG%2F2014HG9680_jpg_l.jpg&type=IMAGE"
     },
     {
-      "source": 4,
-      "target": 13
+      "source": 9,
+      "target": 13,
+      "name": "Antoine",
+      "titel": "Lady's ensemble, Zurich, 1949.",
+      "url":"https://www.europeana.eu/item/2048213/europeana_fashion_http___collections_vam_ac_uk_item_O320048?utm_source=api&utm_medium=api&utm_campaign=arthappis" ,
+    "img":"https://api.europeana.eu/thumbnail/v2/url.json?uri=http%3A%2F%2Fmedia.vam.ac.uk%2Fmedia%2Fthira%2Fcollection_images%2F2014HG%2F2014HG9680_jpg_l.jpg&type=IMAGE"
     },
     {
       "source": 7,
-      "target": 13
-    },{
-      "source": 6,
-      "target": 14
-
+      "target": 13,
+      "name": "Antoine",
+      "titel": "Lady's ensemble, Zurich, 1949.",
+      "url":"https://www.europeana.eu/item/2048213/europeana_fashion_http___collections_vam_ac_uk_item_O320048?utm_source=api&utm_medium=api&utm_campaign=arthappis" ,
+    "img":"https://api.europeana.eu/thumbnail/v2/url.json?uri=http%3A%2F%2Fmedia.vam.ac.uk%2Fmedia%2Fthira%2Fcollection_images%2F2014HG%2F2014HG9680_jpg_l.jpg&type=IMAGE"
     },
     {
       "source": 6,
-      "target": 15
+      "target": 14,
+      "name": "Creed Charle",
+      "titel":" Black rayon with buttons, Utility, London, England, 1942.   Rayon crepe, with buttons. ",
+      "url":"https://www.europeana.eu/item/2048213/europeana_fashion_http___collections_vam_ac_uk_item_O74739?utm_source=api&utm_medium=api&utm_campaign=arthappis",
+      "img":"https://api.europeana.eu/thumbnail/v2/url.json?uri=http%3A%2F%2Fmedia.vam.ac.uk%2Fmedia%2Fthira%2Fcollection_images%2F2006AP%2F2006AP3506_jpg_l.jpg&type=IMAGE"
+    },
+    {
+      "source": 6,
+      "target": 15,
+      "name": "Dior Christian",
+      "titel":"Corolle et en Huit",
+      "url":"https://www.europeana.eu/item/2048213/europeana_fashion_http___collections_vam_ac_uk_item_O117680?utm_source=api&utm_medium=api&utm_campaign=arthappis",
+      "img":"https://api.europeana.eu/thumbnail/v2/url.json?uri=http%3A%2F%2Fmedia.vam.ac.uk%2Fmedia%2Fthira%2Fcollection_images%2F2009CD%2F2009CD4253_jpg_l.jpg&type=IMAGE"
+    },
+    {
+      "source": 9,
+      "target": 16,
+      "name": "Hardy Amies",
+      "titel":"Ladies suit consisting of a skirt and coat, designed by Hardy Amies, Great Britain, 1947.",
+      "url":"https://www.europeana.eu/item/2048213/europeana_fashion_http___collections_vam_ac_uk_item_O84297?utm_source=api&utm_medium=api&utm_campaign=arthappis",
+      "img":"https://api.europeana.eu/thumbnail/v2/url.json?uri=http%3A%2F%2Fmedia.vam.ac.uk%2Fmedia%2Fthira%2Fcollection_images%2F2007BM%2F2007BM6122_jpg_l.jpg&type=IMAGE"
+    },
+    {
+      "source": 7,
+      "target": 16,
+      "name": "Hardy Amies",
+      "titel":"Ladies suit consisting of a skirt and coat, designed by Hardy Amies, Great Britain, 1947.",
+      "url":"https://www.europeana.eu/item/2048213/europeana_fashion_http___collections_vam_ac_uk_item_O84297?utm_source=api&utm_medium=api&utm_campaign=arthappis",
+      "img":"https://api.europeana.eu/thumbnail/v2/url.json?uri=http%3A%2F%2Fmedia.vam.ac.uk%2Fmedia%2Fthira%2Fcollection_images%2F2007BM%2F2007BM6122_jpg_l.jpg&type=IMAGE"
     },
     {
       "source": 5,
-      "target": 16
+      "target": 17,
+      "name": "Incorporated Society of London Fashion Designers",
+      "titel":"From suit, F, 1942, English, Worth for Utility. Black with hair padding. BT17.",
+      "url":"https://www.europeana.eu/item/2048213/europeana_fashion_http___collections_vam_ac_uk_item_O17487?utm_source=api&utm_medium=api&utm_campaign=arthappis",
+      "img":"https://api.europeana.eu/thumbnail/v2/url.json?uri=http%3A%2F%2Fmedia.vam.ac.uk%2Fmedia%2Fthira%2Fcollection_images%2F2012FV%2F2012FV2857_jpg_l.jpg&type=IMAGE"
     },
     {
       "source": 9,
-      "target": 16
-
+      "target": 17,
+      "name": "Incorporated Society of London Fashion Designers",
+      "titel":" F, 1942; English; Utility, Worth?; mustard milled wool; BT27.",
+      "url":"https://www.europeana.eu/item/2048213/europeana_fashion_http___collections_vam_ac_uk_item_O17486?utm_source=api&utm_medium=api&utm_campaign=arthappis",
+      "img":"https://api.europeana.eu/thumbnail/v2/url.json?uri=http%3A%2F%2Fmedia.vam.ac.uk%2Fmedia%2Fthira%2Fcollection_images%2F2006AV%2F2006AV6228_jpg_l.jpg&type=IMAGE"
     },
     {
       "source": 7,
-      "target": 16
+      "target": 17,
+      "name": "Incorporated Society of London Fashion Designers",
+      "titel":" F, 1942; English; Utility, Worth?; mustard milled wool; BT27.",
+      "url":"https://www.europeana.eu/item/2048213/europeana_fashion_http___collections_vam_ac_uk_item_O17486?utm_source=api&utm_medium=api&utm_campaign=arthappis",
+      "img":"https://api.europeana.eu/thumbnail/v2/url.json?uri=http%3A%2F%2Fmedia.vam.ac.uk%2Fmedia%2Fthira%2Fcollection_images%2F2006AV%2F2006AV6228_jpg_l.jpg&type=IMAGE"
     },
     {
       "source": 6,
-      "target": 17
+      "target": 18,
+      "name": "Jacques Fath",
+      "titel":"Summer day dress of yellow linen, with contrasting red patterned sash and hat.",
+      "url":"https://www.europeana.eu/item/2048213/europeana_fashion_http___collections_vam_ac_uk_item_O15574?utm_source=api&utm_medium=api&utm_campaign=arthappis",
+      "img":"https://api.europeana.eu/thumbnail/v2/url.json?uri=http%3A%2F%2Fmedia.vam.ac.uk%2Fmedia%2Fthira%2Fcollection_images%2F2006AV%2F2006AV6232_jpg_l.jpg&type=IMAGE"
     },
     {
       "source": 7,
-      "target": 18
+      "target": 19,
+      "name": "Morton, Digby",
+      "titel":"Red wool coat, designed by Digby Morton, English, autumn 1942.  Red cavalry twill coat. Large red plastic buttons bear a wartime message: CC41 (Civilian Clothing 1941). Wool in cavalry twill weave, fastened with plastic buttons.",
+      "url":"https://www.europeana.eu/item/2048213/europeana_fashion_http___collections_vam_ac_uk_item_O155933?utm_source=api&utm_medium=api&utm_campaign=arthappis",
+      "img":"https://api.europeana.eu/thumbnail/v2/url.json?uri=http%3A%2F%2Fmedia.vam.ac.uk%2Fmedia%2Fthira%2Fcollection_images%2F2006AR%2F2006AR0575_jpg_l.jpg&type=IMAGE"
     },
     {
       "source": 9,
-      "target": 18
+      "target": 19,
+      "name": "Morton, Digby",
+      "titel":"Red wool coat, designed by Digby Morton, English, autumn 1942.  Red cavalry twill coat. Large red plastic buttons bear a wartime message: CC41 (Civilian Clothing 1941). Wool in cavalry twill weave, fastened with plastic buttons.",
+      "url":"https://www.europeana.eu/item/2048213/europeana_fashion_http___collections_vam_ac_uk_item_O155933?utm_source=api&utm_medium=api&utm_campaign=arthappis",
+      "img":"https://api.europeana.eu/thumbnail/v2/url.json?uri=http%3A%2F%2Fmedia.vam.ac.uk%2Fmedia%2Fthira%2Fcollection_images%2F2006AR%2F2006AR0575_jpg_l.jpg&type=IMAGE"
     },
     {
       "source": 6,
-      "target": 19
+      "target": 20,
+      "name": "Victor Stiebel",
+      "titel":"Utility Original Model No. 233",
+      "url":"https://www.europeana.eu/item/2048213/europeana_fashion_http___collections_vam_ac_uk_item_O15693?utm_source=api&utm_medium=api&utm_campaign=arthappis",
+      "img":"https://api.europeana.eu/thumbnail/v2/url.json?uri=http%3A%2F%2Fmedia.vam.ac.uk%2Fmedia%2Fthira%2Fcollection_images%2F2006BF%2F2006BF2902_jpg_l.jpg&type=IMAGE"
     }
   ]
 }

@@ -11,29 +11,29 @@
       "id": 2,
       "name": "Boots",
       "titel":"",
-      "url":"" ,
-    "img":""
+      "url":"",
+      "img":""
     },
     {
       "id": 3,
       "name": "Vest",
       "titel":"",
       "url":"",
-    "img":""
+      "img":""
     },
     {
       "id": 4,
       "name": "Glove",
       "titel":"",
-      "url":"" ,
-    "img":""
+      "url":"",
+      "img":""
     },
     {
       "id": 5,
       "name": "Suit",
       "titel":"",
-      "url":"" ,
-    "img":""
+      "url":"",
+      "img":""
     },
     {
       "id": 6,
@@ -173,25 +173,28 @@
 
     {
       "source": 1,
-      "target": 9
+      "target": 3,
+      "name": "Henry Poole",
+      "titel": "Cotton piqué waistcoat, made by Henry Poole, London, 1953.",
+      "url":"https://www.europeana.eu/item/2048213/europeana_fashion_http___collections_vam_ac_uk_item_O1224087?utm_source=api&utm_medium=api&utm_campaign=arthappis",
+    "img":"https://api.europeana.eu/thumbnail/v2/url.json?uri=http%3A%2F%2Fmedia.vam.ac.uk%2Fmedia%2Fthira%2Fcollection_images%2F2015HJ%2F2015HJ6978_jpg_l.jpg&type=IMAGE"
+    },
 
+    {
+      "source": 1,
+      "target": 6,
+      "name": " Horrockses Fashions",
+      "titel":"Dress, F. British, 1953, Horrockses, made of cotton with Coronation pattern print.  Mid-length dress, shirt style.  Collar with lapels, fastened on the front bodice with 4 grey plastic buttons.  Long sleeves with cuffs. Large box pleat on the front of the skirt. White crisp cotton with the small inscription Elizabeth Regina 1953 printed in black all over the fabric. Machine stitched cotton",
+      "url":"https://www.europeana.eu/item/2048213/europeana_fashion_http___collections_vam_ac_uk_item_O49378?utm_source=api&utm_medium=api&utm_campaign=arthappis",
+      "img":"https://api.europeana.eu/thumbnail/v2/url.json?uri=http%3A%2F%2Fmedia.vam.ac.uk%2Fmedia%2Fthira%2Fcollection_images%2F2011EY%2F2011EY2693_jpg_l.jpg&type=IMAGE"
     },
     {
       "source": 1,
-      "target": 4
-    },
-    {
-      "source": 1,
-      "target": 7
-    }
-    ,
-    {
-      "source": 1,
-      "target": 6
-    },
-    {
-      "source": 1,
-      "target": 5
+      "target": 6,
+      "name": "Dior Christian",
+      "titel":"Jacket and dress in pale brown worsted and cotton, designed by Jacques Fath, Paris, 1954.",
+      "url":"https://www.europeana.eu/item/2048213/europeana_fashion_http___collections_vam_ac_uk_item_O120386?utm_source=api&utm_medium=api&utm_campaign=arthappis",
+      "img":"https://api.europeana.eu/thumbnail/v2/url.json?uri=http%3A%2F%2Fmedia.vam.ac.uk%2Fmedia%2Fthira%2Fcollection_images%2F2007BM%2F2007BM6016_jpg_l.jpg&type=IMAGE"
     }
   ]
 }
