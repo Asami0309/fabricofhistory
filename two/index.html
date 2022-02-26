@@ -40,19 +40,19 @@
   #my_dataviz {
     float: left;
     position: relative;
-    margin-top: -43px;
+    margin-top: -44px;
     width:350px;
 }
   #my_dataviz2, #my_dataviz3, #my_dataviz4, #my_dataviz5, #my_dataviz6, #my_dataviz7, #my_dataviz8, #my_dataviz9, #my_dataviz10{
     position: relative;
     margin-left: 100px;
-    margin-top: -43px;
+    margin-top: -44px;
     width:350px;
     overflow-y: auto;
   }
 #graphic{
   margin-left: 12px;
-  padding-top: 19px;
+  padding-top: 10px;
   /* width: 1500px;
   background: #f9edcf; */
 }
@@ -124,18 +124,24 @@ https://www.tooplate.com/view/2116-blugoon
 
             <div class="author-content">
 
-            <div class="image">
-              <a href="#"><img src="assets/images/logo-image.jpg" alt="Blugoon by Tooplate" /></a>
-            </div>
-            <div class="description">
-              <text class="titel">Sybille</text>
-            <text class="year">1935</text>
-          </div>
-            <a href="https://www.europeana.eu/item/2048213/europeana_fashion_http___collections_vam_ac_uk_item_O15645?utm_source=api&utm_medium=api&utm_campaign=arthappis" class="btn btn--orange">Go to the Page</a>
-          </div>
+
           <div class="howto">
+          <h4>How to read</h4>
             <img src="../assets/images/howto.png" alt="how to lead" />
+            <p>The point where the line connecting the decade and
+the author intersects represent the type of exhibit.
+Mouse hover over the path to see the image of the
+corresponding article.</p>
           </div>
+          <div class="image">
+            <a href="#"><img src="assets/images/logo-image.png" alt="Blugoon by Tooplate" /></a>
+          </div>
+          <!-- <div class="description">
+            <text class="titel">Sybille</text>
+          <text class="year">1935</text>
+        </div> -->
+          <a href="https://www.vam.ac.uk/collections?type=featured" class="btn btn--orange">Go to Collections Page</a>
+        </div>
           </div>
         </div>
 
@@ -156,18 +162,18 @@ https://www.tooplate.com/view/2116-blugoon
         </div>
 
             <div id="graphic">
-            <svg id="line" width="100%" height="70"></svg><li><a href="#">Boots</a></li>
+            <svg id="line" width="100%" height="70"></svg>
             <div class="decade">
-            <li class="dec">1900</li>
-            <li class="dec">1910</li>
-            <li class="dec">1920</li>
-            <li class="dec">1930</li>
-            <li class="dec">1940</li>
-            <li class="dec">1950</li>
-            <li class="dec">1960</li>
-            <li class="dec">1970</li>
-            <li class="dec">1980</li>
-            <li class="dec">1990</li>
+            <li class="dec">1900's</li>
+            <li class="dec">1910's</li>
+            <li class="dec">1920's</li>
+            <li class="dec">1930's</li>
+            <li class="dec">1940's</li>
+            <li class="dec">1950's</li>
+            <li class="dec">1960's</li>
+            <li class="dec">1970's</li>
+            <li class="dec">1980's</li>
+            <li class="dec">1990's</li>
           </div>
             <svg id="my_dataviz"  ></svg>
             <svg id="my_dataviz2" ></svg>
@@ -280,8 +286,8 @@ https://www.tooplate.com/view/2116-blugoon
 
     // set the dimensions and margins of the graph
     var margin = {top: 30, right: 130, bottom: 50, left: -10},
-      width = 550 - margin.left - margin.right,
-      height = 1010 - margin.top - margin.bottom;
+      width = 650 - margin.left - margin.right,
+      height = 810 - margin.top - margin.bottom;
 
     // append the svg object to the body of the page
 
@@ -299,6 +305,7 @@ https://www.tooplate.com/view/2116-blugoon
 // }
 //
 // svgs[4]
+
 
 
 createVis("../two/1900-1.json", "../two/1900-2.json", "#my_dataviz")
@@ -336,6 +343,10 @@ function createVis(dataset1, dataset2, target) {
      .style("opacity", 1)
    d3.select(this)
      .transition()
+
+     d3.select(this)
+       .style("stroke", "red")
+       .attr("stroke-width",2)
  }
 
 
@@ -348,18 +359,17 @@ function createVis(dataset1, dataset2, target) {
                 "<img src='" + d.img + "' alt='' />" +
                 "</div>")
    .style('background-size','cover')
-         .style("left", (d3.event.clientX-100) + "px")
-         .style("top", (d3.event.clientY-100) + "px");
+   .style("left", (d3.event.clientX-100) + "px")
+   .style("top", (d3.event.clientY-100) + "px")
   }
 
  var mouseleave = function(d) {
    Tooltip
-    .style("opacity", 1)
+    .style("opacity", 0)
     d3.select(this)
      // .style("stroke", "none")
      .transition()
-          .duration(300)
-     .style("opacity", 0.8)
+     .duration(300)
      .style("stroke", "black")
      .attr("stroke-width",0.5)
 
