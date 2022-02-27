@@ -42,14 +42,13 @@ font-family: 'Roboto', sans-serif;
   background-image: url(../images/banner_bg.jpg);
   background-repeat: no-repeat;
 background-attachment: fixed;
-background-position: center; 
+background-position: center;
 }
 body{
 	font-family: 'Roboto', sans-serif;
 	font-size:16px;
 	color:#a09e9c;
 	background: #fff;
-    text-transform: capitalize;
     max-width:1920px;
     margin:0 auto;
 	overflow-x:hidden;
@@ -69,11 +68,13 @@ h1,h2,h3,h4,h5,h6 {
     font-size: 18px;
     font-weight: 500;
 }
-p {
+p, li {
+  font-size: 20px;
+  font-weight: 300;
 	margin: 0;
-	color:#a09e9c;
+	color:#5f5b57;
 	font-size:16px;
-    line-height: 1.8;
+  line-height: 1.8;
 }
 img{border:none;max-width:100%; height:auto;}
 ul{
@@ -332,9 +333,12 @@ border-radius: 3px;
 
 }
 .welcome-hero-txt h4 {
-    color: #998d80;
-    font-size: 24px;
-    font-weight: 400;
+  margin-top: 28px;
+font-size: 37px;
+font-weight: 100;
+line-height: 1.4em;
+color: black;
+letter-spacing: 0.5px;
 }
 .welcome-hero-txt h2 {
     font-size: 48px;
@@ -342,7 +346,7 @@ border-radius: 3px;
     font-weight: 400;
     margin: 20px 0 22px;
 }
-.welcome-hero-txt p{margin: 35px 0 20px;}
+.welcome-hero-txt p{margin: 20px 0 20px;}
 .welcome-hero-txt .packages-price p {
     margin: 0;
     padding-left: 35px;
@@ -357,14 +361,16 @@ border-radius: 3px;
     left: 0;
 }
 .btn-cart.welcome-add-cart,.btn-cart.welcome-add-cart.welcome-more-info {
-    width: 170px;
-    height: 60px;
-    line-height: 60px;
-    border-radius: 1px;
-    font-size: 16px;
-    font-weight: 500;
-    display: inline-block;
-    margin-top: 34px;
+  width: 236px;
+  height: 63px;
+  line-height: 60px;
+  border-radius: 1px;
+  font-size: 20px;
+  font-weight: 300;
+  letter-spacing: 0.5px;
+  display: inline-block;
+  margin-top: 34px;
+  padding: 2px;
     -webkit-transition: 0.3s linear;
     -moz-transition: 0.3s linear;
     -ms-transition: 0.3s linear;
