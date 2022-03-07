@@ -23,7 +23,15 @@ body {
     overflow-x:scroll;
 }
 
-
+.course{
+  display: inline-block;
+    width: 100%;
+    padding-left: 0px;
+    padding-right: 0px;
+    padding-top: 33px;
+    font-size: 10px;
+    line-height: 120%;
+}
 /* Basic */
 .howto{
   /* width:80%; */
@@ -75,7 +83,7 @@ body {
 a.btn--orange {
   color: #8b8873;
   background-color: #e9e5c8;
-  margin-top: 12px;
+  margin-top: -5px;
   border: 0.2px solid #8b8873;
   font-weight: 200;
   width: 80%;
@@ -116,13 +124,23 @@ textarea {
 }
 
 a {
-	color: #9FF;
+	color: #000000;
     text-decoration: none;
 }
 
 a:hover {
 	color: #e9e5c9;
 	text-decoration: none;
+}
+
+.course a {
+	color: #black;
+    text-decoration: none;
+}
+.course a:hover {
+	color: #000000;
+	text-decoration: none;
+    font-weight:600;
 }
 
 p {
@@ -828,7 +846,7 @@ section.contact-me {
     }
 
     .menu2 .image {
-        margin-top: 25px;
+        margin-top: -11px;
         margin-bottom: 10px;
     }
 

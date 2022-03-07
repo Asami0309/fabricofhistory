@@ -102,8 +102,8 @@
       "id": 15,
       "name": "Bally",
       "titel": "Jeanne Paquin",
-      "url":"https://www.europeana.eu/item/2048213/europeana_fashion_http___collections_vam_ac_uk_item_O15645?utm_source=api&utm_medium=api&utm_campaign=arthappis" ,
-    "img":"https://api.europeana.eu/thumbnail/v2/url.json?uri=http%3A%2F%2Fmedia.vam.ac.uk%2Fmedia%2Fthira%2Fcollection_images%2F2014HJ%2F2014HJ2813_jpg_l.jpg&type=IMAGE"
+      "url":"" ,
+    "img":""
     },
     {
       "id": 16,
@@ -220,7 +220,7 @@
       "source": 6,
       "target": 15,
       "name": "Bally",
-      "url":"Wool jersey dress by Mary Quant, made in Great Britain, 1964.  Rust wool jersey dress, long waisted, with short topstitched flared skirt. Centre front zip, cream Peter Pan collar and turned back cuffs. Wool jersey.",
+      "titel":"Wool jersey dress by Mary Quant, made in Great Britain, 1964.  Rust wool jersey dress, long waisted, with short topstitched flared skirt. Centre front zip, cream Peter Pan collar and turned back cuffs. Wool jersey.",
       "url":"https://www.europeana.eu/item/2048213/europeana_fashion_http___collections_vam_ac_uk_item_O110463?utm_source=api&utm_medium=api&utm_campaign=arthappis",
       "img":"https://api.europeana.eu/thumbnail/v2/url.json?uri=http%3A%2F%2Fmedia.vam.ac.uk%2Fmedia%2Fthira%2Fcollection_images%2F2011EN%2F2011EN2365_jpg_l.jpg&type=IMAGE"
     },
@@ -244,10 +244,10 @@
     {
       "source": 9,
       "target": 18,
-      "name": "　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　",
-      "titel":"Jeanne Paquin",
-      "url":"",
-      "img":""
+      "name": "Givenchy",
+      "titel":"Coat made of white wool, 1963. Coat made of white wool. Round collar Claudine, off the neck.  Long raglan sleeves. Fastens on the front with 3 big cream buttons. The front of the coat shows 2 semi-circular darts (typical of Givenchy) where the pockets take place. There is a long seam along the top of the sleeves, from the collar to the wrist. machine stitched white wool and polyester. ",
+      "url":"https://www.europeana.eu/item/2048213/europeana_fashion_http___collections_vam_ac_uk_item_O52988?utm_source=api&utm_medium=api&utm_campaign=arthappis",
+      "img":"https://api.europeana.eu/thumbnail/v2/url.json?uri=http%3A%2F%2Fmedia.vam.ac.uk%2Fmedia%2Fthira%2Fcollection_images%2F2012FL%2F2012FL3344_jpg_l.jpg&type=IMAGE"
     },
     {
       "source": 7,
@@ -260,10 +260,10 @@
     {
       "source": 10,
       "target": 19,
-      "name": "Givenchy",
-      "titel":"Evening coat made of quilted velvet facon astrakan. Cross over collar, fastened on the front with 3 buttons.  Velvet, lined with silk. ",
-      "url":"https://www.europeana.eu/item/2048213/europeana_fashion_http___collections_vam_ac_uk_item_O52988?utm_source=api&utm_medium=api&utm_campaign=arthappis",
-      "img":"https://api.europeana.eu/thumbnail/v2/url.json?uri=http%3A%2F%2Fmedia.vam.ac.uk%2Fmedia%2Fthira%2Fcollection_images%2F2012FL%2F2012FL3344_jpg_l.jpg&type=IMAGE"
+      "name": "Gordon Deighton",
+      "titel":"Pink cotton shirt with eyelet front designed by Gordon Deighton for Simpsons of Piccadilly, Britain, 1968.",
+      "url":"https://www.europeana.eu/item/2048213/europeana_fashion_http___collections_vam_ac_uk_item_O56032?utm_source=api&utm_medium=api&utm_campaign=arthappis",
+      "img":"https://api.europeana.eu/thumbnail/v2/url.json?uri=http%3A%2F%2Fmedia.vam.ac.uk%2Fmedia%2Fthira%2Fcollection_images%2F2007BN%2F2007BN1050_jpg_l.jpg&type=IMAGE"
     },
     {
       "source": 6,
@@ -329,14 +329,14 @@
       "url":"https://www.europeana.eu/item/2048213/europeana_fashion_http___collections_vam_ac_uk_item_O17496?utm_source=api&utm_medium=api&utm_campaign=arthappis",
       "img":"https://api.europeana.eu/thumbnail/v2/url.json?uri=http%3A%2F%2Fmedia.vam.ac.uk%2Fmedia%2Fthira%2Fcollection_images%2F2006AV%2F2006AV6272_jpg_l.jpg&type=IMAGE"
     },
-    {
-      "source": 5,
-       "target": 25,
-       "name": "Tommy Nutter",
-       "titel":"Cosmos",
-       "url":"https://www.europeana.eu/item/2048213/europeana_fashion_http___collections_vam_ac_uk_item_O17496?utm_source=api&utm_medium=api&utm_campaign=arthappis",
-       "img":"https://api.europeana.eu/thumbnail/v2/url.json?uri=http%3A%2F%2Fmedia.vam.ac.uk%2Fmedia%2Fthira%2Fcollection_images%2F2006AV%2F2006AV6272_jpg_l.jpg&type=IMAGE"
-     },
+     {
+       "source": 5,
+     "target": 25,
+     "name": "Tommy Nutter",
+     "titel":"Wool suit, designed by Tommy Nutter, Great Britain, 1969.",
+     "url":"https://www.europeana.eu/item/2048213/europeana_fashion_http___collections_vam_ac_uk_item_O110457?utm_source=api&utm_medium=api&utm_campaign=arthappis",
+     "img":"https://api.europeana.eu/thumbnail/v2/url.json?uri=http%3A%2F%2Fmedia.vam.ac.uk%2Fmedia%2Fthira%2Fcollection_images%2F2006BJ%2F2006BJ2248_jpg_l.jpg&type=IMAGE"
+   },
      {
        "source": 3,
      "target": 25,

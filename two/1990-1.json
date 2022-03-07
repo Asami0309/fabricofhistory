@@ -251,13 +251,6 @@
       "titel":"",
       "url":"",
       "img":""
-    },
-    {
-      "id": 37,
-      "name": "　　　　　　　　　　　　　　　　　　　　　　　　　　　　",
-      "titel":"",
-      "url":"",
-      "img":""
     }
   ],
   "links": [
@@ -283,7 +276,7 @@
     {
       "source": 1,
       "target": 3,
-      "name": "Claire Tranter ",
+      "name": "Claire Tranter",
       "titel":"Sheepskin waistcoat, designed by Claire Tranter, London, 1993.",
       "url":"https://www.europeana.eu/item/2048213/europeana_fashion_http___collections_vam_ac_uk_item_O164810?utm_source=api&utm_medium=api&utm_campaign=arthappis",
       "img":"https://api.europeana.eu/thumbnail/v2/url.json?uri=http%3A%2F%2Fmedia.vam.ac.uk%2Fmedia%2Fthira%2Fcollection_images%2F2006AT%2F2006AT2790_jpg_l.jpg&type=IMAGE"
@@ -335,7 +328,7 @@
     {
       "source": 1,
       "target": 5,
-      "name": "Gieves & Hawkes ",
+      "name": "Gieves & Hawkes",
       "titel":"Mess suit consisting of a woollen jacket, waistcoat, trousers and braces, made by Gieves & Hawkes, London, 1996.",
       "url":"https://www.europeana.eu/item/2048213/europeana_fashion_http___collections_vam_ac_uk_item_O164838?utm_source=api&utm_medium=api&utm_campaign=arthappis",
       "img":"https://api.europeana.eu/thumbnail/v2/url.json?uri=http%3A%2F%2Fmedia.vam.ac.uk%2Fmedia%2Fthira%2Fcollection_images%2F2006AN%2F2006AN3674_jpg_l.jpg&type=IMAGE"
@@ -343,7 +336,7 @@
     {
       "source": 1,
       "target": 3,
-      "name": "Gieves & Hawkes ",
+      "name": "Gieves & Hawkes",
       "titel":"Mess suit consisting of a woollen jacket, waistcoat, trousers and braces, made by Gieves & Hawkes, London, 1996.",
       "url":"https://www.europeana.eu/item/2048213/europeana_fashion_http___collections_vam_ac_uk_item_O164838?utm_source=api&utm_medium=api&utm_campaign=arthappis",
       "img":"https://api.europeana.eu/thumbnail/v2/url.json?uri=http%3A%2F%2Fmedia.vam.ac.uk%2Fmedia%2Fthira%2Fcollection_images%2F2006AN%2F2006AN3674_jpg_l.jpg&type=IMAGE"
@@ -351,7 +344,7 @@
     {
       "source": 1,
       "target": 7,
-      "name": "Gieves & Hawkes ",
+      "name": "Gieves & Hawkes",
       "titel":"Mess suit consisting of a woollen jacket, waistcoat, trousers and braces, made by Gieves & Hawkes, London, 1996.",
       "url":"https://www.europeana.eu/item/2048213/europeana_fashion_http___collections_vam_ac_uk_item_O164838?utm_source=api&utm_medium=api&utm_campaign=arthappis",
       "img":"https://api.europeana.eu/thumbnail/v2/url.json?uri=http%3A%2F%2Fmedia.vam.ac.uk%2Fmedia%2Fthira%2Fcollection_images%2F2006AN%2F2006AN3674_jpg_l.jpg&type=IMAGE"
@@ -359,7 +352,7 @@
     {
       "source": 1,
       "target": 9,
-      "name": "Gieves & Hawkes ",
+      "name": "Gieves & Hawkes",
       "titel":"Mess suit consisting of a woollen jacket, waistcoat, trousers and braces, made by Gieves & Hawkes, London, 1996.",
       "url":"https://www.europeana.eu/item/2048213/europeana_fashion_http___collections_vam_ac_uk_item_O164838?utm_source=api&utm_medium=api&utm_campaign=arthappis",
       "img":"https://api.europeana.eu/thumbnail/v2/url.json?uri=http%3A%2F%2Fmedia.vam.ac.uk%2Fmedia%2Fthira%2Fcollection_images%2F2006AN%2F2006AN3674_jpg_l.jpg&type=IMAGE"
@@ -367,7 +360,7 @@
     {
       "source": 1,
       "target": 10,
-      "name": "  Giorgio Armani",
+      "name": "Giorgio Armani",
       "titel":"Scarf of cream silk and linen with open weave and fringed ends. Shirt of cream cotton long sleeved shirt with pleated bib at front. Collarless, with a long, tunic-like shape. Jacket of collarless tan linen cotton with a slit pocket at the chest and two hip pockets. Trousers of  tan linen and cotton.",
       "url":"https://www.europeana.eu/item/2048213/europeana_fashion_http___collections_vam_ac_uk_item_O1194253?utm_source=api&utm_medium=api&utm_campaign=arthappis",
       "img":"https://api.europeana.eu/thumbnail/v2/url.json?uri=http%3A%2F%2Fmedia.vam.ac.uk%2Fmedia%2Fthira%2Fcollection_images%2F2013GK%2F2013GK2381_jpg_l.jpg&type=IMAGE"
@@ -396,12 +389,11 @@
       "titel":"Man's shirt, white and blue checked cotton, Great Britain, Hackett, 1996.",
       "url":"https://www.europeana.eu/item/2048213/europeana_fashion_http___collections_vam_ac_uk_item_O1193531?utm_source=api&utm_medium=api&utm_campaign=arthappis",
       "img":"https://api.europeana.eu/thumbnail/v2/url.json?uri=http%3A%2F%2Fmedia.vam.ac.uk%2Fmedia%2Fthira%2Fcollection_images%2F2006BC%2F2006BC1949_jpg_l.jpg&type=IMAGE"
-
     },
     {
       "source": 1,
       "target": 10,
-      "name": " Hamish Morrow",
+      "name": "Hamish Morrow",
       "titel":"Woman's blue satin trouser suit with ostrich-feather trimmed organza blouse, designed by Hamish Morrow, London, 1993.",
       "url":"https://www.europeana.eu/item/2048213/europeana_fashion_http___collections_vam_ac_uk_item_O164599?utm_source=api&utm_medium=api&utm_campaign=arthappis",
       "img":"https://api.europeana.eu/thumbnail/v2/url.json?uri=http%3A%2F%2Fmedia.vam.ac.uk%2Fmedia%2Fthira%2Fcollection_images%2F2006AT%2F2006AT2799_jpg_l.jpg&type=IMAGE"
@@ -410,7 +402,7 @@
     {
       "source": 1,
       "target": 10,
-      "name": " Helen Storey",
+      "name": "Helen Storey",
       "titel":"Trouser suit, Lyocell (Tencel), designed by Helen Storey, London, 1993.",
       "url":"https://www.europeana.eu/item/2048213/europeana_fashion_http___collections_vam_ac_uk_item_O233660?utm_source=api&utm_medium=api&utm_campaign=arthappis",
       "img":"https://api.europeana.eu/thumbnail/v2/url.json?uri=http%3A%2F%2Fmedia.vam.ac.uk%2Fmedia%2Fthira%2Fcollection_images%2F2006AT%2F2006AT2789_jpg_l.jpg&type=IMAGE"
@@ -437,7 +429,7 @@
     {
       "source": 1,
       "target": 6,
-      "name": "Margaret Howell ",
+      "name": "Margaret Howell",
       "titel":"Woman's ensemble comprising printed silk dress, red knitted cotton cardigan and spotted silk neckerchief, designed by Margaret Howell, Great Britain, spring/summer 1996.",
       "url":"https://www.europeana.eu/item/2048213/europeana_fashion_http___collections_vam_ac_uk_item_O83775?utm_source=api&utm_medium=api&utm_campaign=arthappis",
       "img":"https://api.europeana.eu/thumbnail/v2/url.json?uri=http%3A%2F%2Fmedia.vam.ac.uk%2Fmedia%2Fthira%2Fcollection_images%2F2006AM%2F2006AM4185_jpg_l.jpg&type=IMAGE"
@@ -493,7 +485,7 @@
     {
       "source": 1,
       "target": 5,
-      "name": " Ozwald Boateng",
+      "name": "Ozwald Boateng",
       "titel":"Man's suit consisting of a jacket and trousers in wool, polyester and mohair, designed by Ozwald Boateng, Great Britain, 1996.",
       "url":"https://www.europeana.eu/item/2048213/europeana_fashion_http___collections_vam_ac_uk_item_O110812?utm_source=api&utm_medium=api&utm_campaign=arthappis",
       "img":"https://api.europeana.eu/thumbnail/v2/url.json?uri=http%3A%2F%2Fmedia.vam.ac.uk%2Fmedia%2Fthira%2Fcollection_images%2F2006AN%2F2006AN3798_jpg_l.jpg&type=IMAGE"

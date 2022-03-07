@@ -175,48 +175,47 @@
       "source": 1,
       "target": 9,
       "name": "André Courrèges",
-      "title" : "Short day dress made of machine sewn wool, designed by André Courrèges for Couture Future collection, Paris, 1972.",
+      "titel" : "Short day dress made of machine sewn wool, designed by André Courrèges for Couture Future collection, Paris, 1972.",
       "url" : "https://www.europeana.eu/item/2048213/europeana_fashion_http___collections_vam_ac_uk_item_O114481?utm_source=api&utm_medium=api&utm_campaign=arthappis",
-      "image" : "https://api.europeana.eu/thumbnail/v2/url.json?uri=http%3A%2F%2Fmedia.vam.ac.uk%2Fmedia%2Fthira%2Fcollection_images%2F2006AP%2F2006AP3508_jpg_l.jpg&type=IMAGE"
+      "img" : "https://api.europeana.eu/thumbnail/v2/url.json?uri=http%3A%2F%2Fmedia.vam.ac.uk%2Fmedia%2Fthira%2Fcollection_images%2F2006AP%2F2006AP3508_jpg_l.jpg&type=IMAGE"
     },
     {
       "source": 1,
       "target": 9,
       "name": "André Courrèges",
-      "title" : "Day dress of machine-sewn worsted, with composition zippers, designed by André Courrèges, Paris, 1972.",
+      "titel" : "Day dress of machine-sewn worsted, with composition zippers, designed by André Courrèges, Paris, 1972.",
       "url" : "https://www.europeana.eu/item/2048213/europeana_fashion_http___collections_vam_ac_uk_item_O72568?utm_source=api&utm_medium=api&utm_campaign=arthappis",
-      "image" : "https://api.europeana.eu/thumbnail/v2/url.json?uri=http%3A%2F%2Fmedia.vam.ac.uk%2Fmedia%2Fthira%2Fcollection_images%2F2006AP%2F2006AP3426_jpg_l.jpg&type=IMAGE"
+      "img" : "https://api.europeana.eu/thumbnail/v2/url.json?uri=http%3A%2F%2Fmedia.vam.ac.uk%2Fmedia%2Fthira%2Fcollection_images%2F2006AP%2F2006AP3426_jpg_l.jpg&type=IMAGE"
     },
     {
       "source": 1,
       "target": 4,
       "name": "Gordon L. Clarke",
-      "title" : "Purple wool day ensemble, skirt and jacket with purple feather ornament. Accessorised with gilt metal bracelets,  necklaces and earrings, as well as purple leather gloves and black leather shoes.",
+      "titel" : "Purple wool day ensemble, skirt and jacket with purple feather ornament. Accessorised with gilt metal bracelets,  necklaces and earrings, as well as purple leather gloves and black leather shoes.",
       "url" : "https://www.europeana.eu/item/2048213/europeana_fashion_http___collections_vam_ac_uk_item_O138558?utm_source=api&utm_medium=api&utm_campaign=arthappis",
-      "image" : "https://api.europeana.eu/thumbnail/v2/url.json?uri=http%3A%2F%2Fmedia.vam.ac.uk%2Fmedia%2Fthira%2Fcollection_images%2F2006BE%2F2006BE8213_jpg_l.jpg&type=IMAGE"
+      "img" : "https://api.europeana.eu/thumbnail/v2/url.json?uri=http%3A%2F%2Fmedia.vam.ac.uk%2Fmedia%2Fthira%2Fcollection_images%2F2006BE%2F2006BE8213_jpg_l.jpg&type=IMAGE"
     },
     {
       "source": 1,
       "target": 11,
       "name": "Gordon L. Clarke",
-      "title" : "Purple wool day ensemble, skirt and jacket with purple feather ornament. Accessorised with gilt metal bracelets,  necklaces and earrings, as well as purple leather gloves and black leather shoes.",
+      "titel" : "Purple wool day ensemble, skirt and jacket with purple feather ornament. Accessorised with gilt metal bracelets,  necklaces and earrings, as well as purple leather gloves and black leather shoes.",
       "url" : "https://www.europeana.eu/item/2048213/europeana_fashion_http___collections_vam_ac_uk_item_O138558?utm_source=api&utm_medium=api&utm_campaign=arthappis",
-      "image" : "https://api.europeana.eu/thumbnail/v2/url.json?uri=http%3A%2F%2Fmedia.vam.ac.uk%2Fmedia%2Fthira%2Fcollection_images%2F2006BE%2F2006BE8213_jpg_l.jpg&type=IMAGE"
+      "img" : "https://api.europeana.eu/thumbnail/v2/url.json?uri=http%3A%2F%2Fmedia.vam.ac.uk%2Fmedia%2Fthira%2Fcollection_images%2F2006BE%2F2006BE8213_jpg_l.jpg&type=IMAGE"
     },
     {
       "source": 1,
       "target": 5,
       "name": "Herbert Victor",
       "titel":"Men's suit in yellow wool, designed by Victor Herbert, Great Britain, 1974.  Men's suit of yellow wool comprising of jacket and trousers. Trousers of yellow wool with flared legs, 2 front hip pockets, with hook and eye fastening on waistband and metal zip; Jacket of yellow wool with wide lapels, single-breasted, 2 vertical button closures and 2 front hip pockets. Wool, sewn.",
-      "url":"",
-      "img":""
-
+      "url":"https://www.europeana.eu/item/2048213/europeana_fashion_http___collections_vam_ac_uk_item_O69570?utm_source=api&utm_medium=api&utm_campaign=arthappis",
+      "img":"https://api.europeana.eu/thumbnail/v2/url.json?uri=http%3A%2F%2Fmedia.vam.ac.uk%2Fmedia%2Fthira%2Fcollection_images%2F2011EN%2F2011EN2405_jpg_l.jpg&type=IMAGE"
     },
     {
       "source": 1,
       "target": 6,
       "name": "Janice Wainwright",
-      "title" : "Bob",
+      "titel" : "Bob",
       "url":"https://www.europeana.eu/item/2048213/europeana_fashion_http___collections_vam_ac_uk_item_O138546?utm_source=api&utm_medium=api&utm_campaign=arthappis",
       "img":"https://api.europeana.eu/thumbnail/v2/url.json?uri=http%3A%2F%2Fmedia.vam.ac.uk%2Fmedia%2Fthira%2Fcollection_images%2F2006BE%2F2006BE8227_jpg_l.jpg&type=IMAGE"
     },
@@ -224,7 +223,7 @@
       "source": 1,
      "target": 4,
      "name": "Janice Wainwright",
-     "title" : "Bob",
+     "titel" : "Bob",
      "url":"https://www.europeana.eu/item/2048213/europeana_fashion_http___collections_vam_ac_uk_item_O138546?utm_source=api&utm_medium=api&utm_campaign=arthappis",
      "img":"https://api.europeana.eu/thumbnail/v2/url.json?uri=http%3A%2F%2Fmedia.vam.ac.uk%2Fmedia%2Fthira%2Fcollection_images%2F2006BE%2F2006BE8227_jpg_l.jpg&type=IMAGE"
    },
@@ -232,113 +231,113 @@
       "source": 1,
       "target": 4,
       "name": "Lesley Slight",
-      "title" : "Pair of leather gloves, possibly designed by Lesley Slight, England, 1979.",
+      "titel" : "Pair of leather gloves, possibly designed by Lesley Slight, England, 1979.",
      "url" : "https://www.europeana.eu/item/2048213/europeana_fashion_http___collections_vam_ac_uk_item_O356392?utm_source=api&utm_medium=api&utm_campaign=arthappis",
-     "image" : "https://api.europeana.eu/thumbnail/v2/url.json?uri=http%3A%2F%2Fmedia.vam.ac.uk%2Fmedia%2Fthira%2Fcollection_images%2F2015HJ%2F2015HJ3837_jpg_l.jpg&type=IMAGE"
+     "img" : "https://api.europeana.eu/thumbnail/v2/url.json?uri=http%3A%2F%2Fmedia.vam.ac.uk%2Fmedia%2Fthira%2Fcollection_images%2F2015HJ%2F2015HJ3837_jpg_l.jpg&type=IMAGE"
     },
     {
       "source": 1,
       "target": 5,
-      "name": "Mr Fish ",
-      "title" : "Turquoise wool-synthetic blend man's single-breasted suit, designed by Mr Fish, London, England, 1971.",
+      "name": "Mr Fish",
+      "titel" : "Turquoise wool-synthetic blend man's single-breasted suit, designed by Mr Fish, London, England, 1971.",
       "url" : "https://www.europeana.eu/item/2048213/europeana_fashion_http___collections_vam_ac_uk_item_O164816?utm_source=api&utm_medium=api&utm_campaign=arthappis",
-      "image" : "https://api.europeana.eu/thumbnail/v2/url.json?uri=http%3A%2F%2Fmedia.vam.ac.uk%2Fmedia%2Fthira%2Fcollection_images%2F2006AT%2F2006AT5420_jpg_l.jpg&type=IMAGE"
+      "img" : "https://api.europeana.eu/thumbnail/v2/url.json?uri=http%3A%2F%2Fmedia.vam.ac.uk%2Fmedia%2Fthira%2Fcollection_images%2F2006AT%2F2006AT5420_jpg_l.jpg&type=IMAGE"
     },
     {
       "source": 1,
       "target": 10,
       "name": "Mr Freedom",
-      "title" : "Cotton T-shirt, designed by Mr Freedom, London, 1971. Red and white cotton T-shirt with a red cotton body, short sleeves, collar and cuff bands and white yoke. Cotton.",
+      "titel" : "Cotton T-shirt, designed by Mr Freedom, London, 1971. Red and white cotton T-shirt with a red cotton body, short sleeves, collar and cuff bands and white yoke. Cotton.",
       "url" : "https://www.europeana.eu/item/2048213/europeana_fashion_http___collections_vam_ac_uk_item_O141037?utm_source=api&utm_medium=api&utm_campaign=arthappis",
-      "image" : "https://api.europeana.eu/thumbnail/v2/url.json?uri=http%3A%2F%2Fmedia.vam.ac.uk%2Fmedia%2Fthira%2Fcollection_images%2F2012FL%2F2012FL0570_jpg_l.jpg&type=IMAGE"
+      "img" : "https://api.europeana.eu/thumbnail/v2/url.json?uri=http%3A%2F%2Fmedia.vam.ac.uk%2Fmedia%2Fthira%2Fcollection_images%2F2012FL%2F2012FL0570_jpg_l.jpg&type=IMAGE"
     },
     {
       "source": 1,
       "target": 10,
       "name": "O'Connor, Jim",
-      "title" : "Man's printed cotton satin shirt, designed by Jim O'Connor for Mr Freedom, London, 1971.  Man's cotton satin shirt printed with images of hamburgers in orange, green, red and black, and with a large breast pocket on the left. Fitted with a back yoke, centre back seam, and shaped back panels. Shirt collar with rounded ends. Front button fastening consisting of seven buttons and three on each cuff. Satin appliqué hamburger on the right breast. Printed cotton satin and appliqué.",
+      "titel" : "Man's printed cotton satin shirt, designed by Jim O'Connor for Mr Freedom, London, 1971.  Man's cotton satin shirt printed with images of hamburgers in orange, green, red and black, and with a large breast pocket on the left. Fitted with a back yoke, centre back seam, and shaped back panels. Shirt collar with rounded ends. Front button fastening consisting of seven buttons and three on each cuff. Satin appliqué hamburger on the right breast. Printed cotton satin and appliqué.",
       "url" : "https://www.europeana.eu/item/2048213/europeana_fashion_http___collections_vam_ac_uk_item_O84944?utm_source=api&utm_medium=api&utm_campaign=arthappis",
-      "image" : "https://api.europeana.eu/thumbnail/v2/url.json?uri=http%3A%2F%2Fmedia.vam.ac.uk%2Fmedia%2Fthira%2Fcollection_images%2F2010EH%2F2010EH4905_jpg_l.jpg&type=IMAGE"
+      "img" : "https://api.europeana.eu/thumbnail/v2/url.json?uri=http%3A%2F%2Fmedia.vam.ac.uk%2Fmedia%2Fthira%2Fcollection_images%2F2010EH%2F2010EH4905_jpg_l.jpg&type=IMAGE"
     },
     {
       "source": 1,
       "target": 7,
       "name": "Patti Searle",
-      "title" : "F, 1979, British; Searle, Patti.  Blue, grey and brown mohair.",
+      "titel" : "F, 1979, British; Searle, Patti.  Blue, grey and brown mohair.",
       "url" : "https://www.europeana.eu/item/2048213/europeana_fashion_http___collections_vam_ac_uk_item_O83722?utm_source=api&utm_medium=api&utm_campaign=arthappis",
-      "image" : "https://api.europeana.eu/thumbnail/v2/url.json?uri=http%3A%2F%2Fmedia.vam.ac.uk%2Fmedia%2Fthira%2Fcollection_images%2F2006BC%2F2006BC1955_jpg_l.jpg&type=IMAGE"
+      "img" : "https://api.europeana.eu/thumbnail/v2/url.json?uri=http%3A%2F%2Fmedia.vam.ac.uk%2Fmedia%2Fthira%2Fcollection_images%2F2006BC%2F2006BC1955_jpg_l.jpg&type=IMAGE"
     },
     {
       "source": 1,
       "target": 9,
       "name": "Patti Searle",
-      "title" : "F, 1979, British; Searle, Patti.  Blue, grey and brown mohair.",
+      "titel" : "F, 1979, British; Searle, Patti.  Blue, grey and brown mohair.",
       "url" : "https://www.europeana.eu/item/2048213/europeana_fashion_http___collections_vam_ac_uk_item_O83722?utm_source=api&utm_medium=api&utm_campaign=arthappis",
-      "image" : "https://api.europeana.eu/thumbnail/v2/url.json?uri=http%3A%2F%2Fmedia.vam.ac.uk%2Fmedia%2Fthira%2Fcollection_images%2F2006BC%2F2006BC1955_jpg_l.jpg&type=IMAGE"
+      "img" : "https://api.europeana.eu/thumbnail/v2/url.json?uri=http%3A%2F%2Fmedia.vam.ac.uk%2Fmedia%2Fthira%2Fcollection_images%2F2006BC%2F2006BC1955_jpg_l.jpg&type=IMAGE"
     },
     {
       "source": 1,
       "target": 4,
       "name": "Roger Saul",
-      "title" : "Chanel no 11; Kanimura",
+      "titel" : "Chanel no 11; Kanimura",
       "url" : "https://www.europeana.eu/item/2048213/europeana_fashion_http___collections_vam_ac_uk_item_O138559?utm_source=api&utm_medium=api&utm_campaign=arthappis",
-      "image" : "https://api.europeana.eu/thumbnail/v2/url.json?uri=http%3A%2F%2Fmedia.vam.ac.uk%2Fmedia%2Fthira%2Fcollection_images%2F2006BE%2F2006BE8229_jpg_l.jpg&type=IMAGE"
+      "img" : "https://api.europeana.eu/thumbnail/v2/url.json?uri=http%3A%2F%2Fmedia.vam.ac.uk%2Fmedia%2Fthira%2Fcollection_images%2F2006BE%2F2006BE8229_jpg_l.jpg&type=IMAGE"
     },
     {
       "source": 1,
       "target": 4,
       "name": "Roger Saul",
-      "title" : "Chanel no 11; Kanimura",
+      "titel" : "Chanel no 11; Kanimura",
       "url" : "https://www.europeana.eu/item/2048213/europeana_fashion_http___collections_vam_ac_uk_item_O138559?utm_source=api&utm_medium=api&utm_campaign=arthappis",
-      "image" : "https://api.europeana.eu/thumbnail/v2/url.json?uri=http%3A%2F%2Fmedia.vam.ac.uk%2Fmedia%2Fthira%2Fcollection_images%2F2006BE%2F2006BE8229_jpg_l.jpg&type=IMAGE"
+      "img" : "https://api.europeana.eu/thumbnail/v2/url.json?uri=http%3A%2F%2Fmedia.vam.ac.uk%2Fmedia%2Fthira%2Fcollection_images%2F2006BE%2F2006BE8229_jpg_l.jpg&type=IMAGE"
     },
     {
       "source": 1,
       "target": 11,
       "name": "Roger Saul",
-      "title" : "Chanel no 11; Kanimura",
+      "titel" : "Chanel no 11; Kanimura",
       "url" : "https://www.europeana.eu/item/2048213/europeana_fashion_http___collections_vam_ac_uk_item_O138559?utm_source=api&utm_medium=api&utm_campaign=arthappis",
-      "image" : "https://api.europeana.eu/thumbnail/v2/url.json?uri=http%3A%2F%2Fmedia.vam.ac.uk%2Fmedia%2Fthira%2Fcollection_images%2F2006BE%2F2006BE8229_jpg_l.jpg&type=IMAGE"
+      "img" : "https://api.europeana.eu/thumbnail/v2/url.json?uri=http%3A%2F%2Fmedia.vam.ac.uk%2Fmedia%2Fthira%2Fcollection_images%2F2006BE%2F2006BE8229_jpg_l.jpg&type=IMAGE"
     },
     {
       "source": 1,
       "target": 7,
       "name": "Roger Saul",
-      "title" : "Chanel no 11; Kanimura",
+      "titel" : "Chanel no 11; Kanimura",
       "url" : "https://www.europeana.eu/item/2048213/europeana_fashion_http___collections_vam_ac_uk_item_O138559?utm_source=api&utm_medium=api&utm_campaign=arthappis",
-      "image" : "https://api.europeana.eu/thumbnail/v2/url.json?uri=http%3A%2F%2Fmedia.vam.ac.uk%2Fmedia%2Fthira%2Fcollection_images%2F2006BE%2F2006BE8229_jpg_l.jpg&type=IMAGE"
+      "img" : "https://api.europeana.eu/thumbnail/v2/url.json?uri=http%3A%2F%2Fmedia.vam.ac.uk%2Fmedia%2Fthira%2Fcollection_images%2F2006BE%2F2006BE8229_jpg_l.jpg&type=IMAGE"
     },
     {
       "source": 1,
       "target": 9,
       "name": "Rupert Lycett Green",
-      "title" : "Single-breasted suit, designed by Rupert Lycett Green for Blades, London, 1972.",
+      "titel" : "Single-breasted suit, designed by Rupert Lycett Green for Blades, London, 1972.",
       "url" : "https://www.europeana.eu/item/2048213/europeana_fashion_http___collections_vam_ac_uk_item_O17498?utm_source=api&utm_medium=api&utm_campaign=arthappis",
-      "image" : "https://api.europeana.eu/thumbnail/v2/url.json?uri=http%3A%2F%2Fmedia.vam.ac.uk%2Fmedia%2Fthira%2Fcollection_images%2F2006AV%2F2006AV6275_jpg_l.jpg&type=IMAGE"
+      "img" : "https://api.europeana.eu/thumbnail/v2/url.json?uri=http%3A%2F%2Fmedia.vam.ac.uk%2Fmedia%2Fthira%2Fcollection_images%2F2006AV%2F2006AV6275_jpg_l.jpg&type=IMAGE"
     },
     {
       "source": 1,
       "target": 9,
       "name": "Sally Tuffin",
-      "title" : "Ensemble of a coat with belt, trousers and blouse of wool, designed and made by Sally Tuffin, United Kingdom, 1973.",
+      "titel" : "Ensemble of a coat with belt, trousers and blouse of wool, designed and made by Sally Tuffin, United Kingdom, 1973.",
       "url" : "https://www.europeana.eu/item/2048213/europeana_fashion_http___collections_vam_ac_uk_item_O83774?utm_source=api&utm_medium=api&utm_campaign=arthappis",
-      "image" : "https://api.europeana.eu/thumbnail/v2/url.json?uri=http%3A%2F%2Fmedia.vam.ac.uk%2Fmedia%2Fthira%2Fcollection_images%2F2006AM%2F2006AM4176_jpg_l.jpg&type=IMAGE"
+      "img" : "https://api.europeana.eu/thumbnail/v2/url.json?uri=http%3A%2F%2Fmedia.vam.ac.uk%2Fmedia%2Fthira%2Fcollection_images%2F2006AM%2F2006AM4176_jpg_l.jpg&type=IMAGE"
     },
     {
       "source": 1,
       "target": 7,
       "name": "Sally Tuffin",
-      "title" : "Ensemble of a coat with belt, trousers and blouse of wool, designed and made by Sally Tuffin, United Kingdom, 1973.",
+      "titel" : "Ensemble of a coat with belt, trousers and blouse of wool, designed and made by Sally Tuffin, United Kingdom, 1973.",
       "url" : "https://www.europeana.eu/item/2048213/europeana_fashion_http___collections_vam_ac_uk_item_O83774?utm_source=api&utm_medium=api&utm_campaign=arthappis",
-      "image" : "https://api.europeana.eu/thumbnail/v2/url.json?uri=http%3A%2F%2Fmedia.vam.ac.uk%2Fmedia%2Fthira%2Fcollection_images%2F2006AM%2F2006AM4176_jpg_l.jpg&type=IMAGE"
+      "img" : "https://api.europeana.eu/thumbnail/v2/url.json?uri=http%3A%2F%2Fmedia.vam.ac.uk%2Fmedia%2Fthira%2Fcollection_images%2F2006AM%2F2006AM4176_jpg_l.jpg&type=IMAGE"
     },
     {
       "source": 1,
       "target": 6,
       "name": "Sally Tuffin",
-      "title" : "Carnival;Coco Frills",
+      "titel" : "Carnival;Coco Frills",
       "url" : "https://www.europeana.eu/item/2048213/europeana_fashion_http___collections_vam_ac_uk_item_O133243?utm_source=api&utm_medium=api&utm_campaign=arthappis",
-      "image" : "https://api.europeana.eu/thumbnail/v2/url.json?uri=http%3A%2F%2Fmedia.vam.ac.uk%2Fmedia%2Fthira%2Fcollection_images%2F2006BG%2F2006BG5360_jpg_l.jpg&type=IMAGE"
+      "img" : "https://api.europeana.eu/thumbnail/v2/url.json?uri=http%3A%2F%2Fmedia.vam.ac.uk%2Fmedia%2Fthira%2Fcollection_images%2F2006BG%2F2006BG5360_jpg_l.jpg&type=IMAGE"
     }
   ]
 }

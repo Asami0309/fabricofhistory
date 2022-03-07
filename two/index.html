@@ -127,7 +127,7 @@ https://www.tooplate.com/view/2116-blugoon
 
           <div class="howto">
           <h4>How to read</h4>
-            <img src="../two/assets/images/howto.png" alt="how to read" />
+            <img src="../assets/images/howto.png" alt="how to read" />
             <p>The point where the line connecting the decade and
 the author intersects represent the type of exhibit.
 Mouse hover over the path to see the image of the
@@ -141,6 +141,7 @@ corresponding article.</p>
           <text class="year">1935</text>
         </div> -->
           <a href="https://www.vam.ac.uk/collections?type=featured" class="btn btn--orange">Go to Collections Page</a>
+        <p class="course">Course details: </br><a href="https://uclab.fh-potsdam.de/advances">Advances in Data Visualization: Networks & Hierarchies by Mark-Jan Bludau at University of Applied Sciences Potsdam, Winter semester 2021/22</a></p>
         </div>
           </div>
         </div>
@@ -287,7 +288,9 @@ corresponding article.</p>
     // set the dimensions and margins of the graph
     var margin = {top: 30, right: 130, bottom: 50, left: -10},
       width = 650 - margin.left - margin.right,
-      height = 810 - margin.top - margin.bottom;
+      height = 810 - margin.top - margin.bottom,
+      height2 = 880 - margin.top - margin.bottom,
+      height3 = 1230 - margin.top - margin.bottom;
 
     // append the svg object to the body of the page
 
@@ -307,27 +310,27 @@ corresponding article.</p>
 // svgs[4]
 
 
-// createVis("../1900-1.json", "../1900-2.json", "#my_dataviz")
-// createVis("../1910-1.json", "../1910-2.json", "#my_dataviz2")
-// createVis("../1920-1.json", "../1920-2.json", "#my_dataviz3")
-// createVis("../1930-1.json", "../1930-2.json", "#my_dataviz4")
-// createVis("../1940-1.json", "../1940-2.json", "#my_dataviz5")
-// createVis("../1950-1.json", "../1950-2.json", "#my_dataviz6")
-// createVis("../1960-1.json", "../1960-2.json", "#my_dataviz7")
-// createVis("../1970-1.json", "../1970-2.json", "#my_dataviz8")
-// createVis("../1980-1.json", "../1980-2.json", "#my_dataviz9")
-// createVis("../1990-1.json", "../1990-2.json", "#my_dataviz10")
-
-createVis("../two/1900-1.json", "../two/1900-2.json", "#my_dataviz")
-createVis("../two/1910-1.json", "../two/1910-2.json", "#my_dataviz2")
-createVis("../two/1920-1.json", "../two/1920-2.json", "#my_dataviz3")
-createVis("../two/1930-1.json", "../two/1930-2.json", "#my_dataviz4")
-createVis("../two/1940-1.json", "../two/1940-2.json", "#my_dataviz5")
-createVis("../two/1950-1.json", "../two/1950-2.json", "#my_dataviz6")
-createVis("../two/1960-1.json", "../two/1960-2.json", "#my_dataviz7")
-createVis("../two/1970-1.json", "../two/1970-2.json", "#my_dataviz8")
-createVis("../two/1980-1.json", "../two/1980-2.json", "#my_dataviz9")
-createVis("../two/1990-1.json", "../two/1990-2.json", "#my_dataviz10")
+createVis("../1900-1.json", "../1900-2.json", "#my_dataviz")
+createVis("../1910-1.json", "../1910-2.json", "#my_dataviz2")
+createVis("../1920-1.json", "../1920-2.json", "#my_dataviz3")
+createVis("../1930-1.json", "../1930-2.json", "#my_dataviz4")
+createVis("../1940-1.json", "../1940-2.json", "#my_dataviz5")
+createVis("../1950-1.json", "../1950-2.json", "#my_dataviz6")
+createVis2("../1960-1.json", "../1960-2.json", "#my_dataviz7")
+createVis("../1970-1.json", "../1970-2.json", "#my_dataviz8")
+createVis("../1980-1.json", "../1980-2.json", "#my_dataviz9")
+createVis3("../1990-1.json", "../1990-2.json", "#my_dataviz10")
+//
+// createVis("../two/1900-1.json", "../two/1900-2.json", "#my_dataviz")
+// createVis("../two/1910-1.json", "../two/1910-2.json", "#my_dataviz2")
+// createVis("../two/1920-1.json", "../two/1920-2.json", "#my_dataviz3")
+// createVis("../two/1930-1.json", "../two/1930-2.json", "#my_dataviz4")
+// createVis("../two/1940-1.json", "../two/1940-2.json", "#my_dataviz5")
+// createVis("../two/1950-1.json", "../two/1950-2.json", "#my_dataviz6")
+// createVis("../two/1960-1.json", "../two/1960-2.json", "#my_dataviz7")
+// createVis("../two/1970-1.json", "../two/1970-2.json", "#my_dataviz8")
+// createVis("../two/1980-1.json", "../two/1980-2.json", "#my_dataviz9")
+// createVis("../two/1990-1.json", "../two/1990-2.json", "#my_dataviz10")
 
 function createVis(dataset1, dataset2, target) {
   var svg = d3.select(target)
@@ -340,7 +343,7 @@ function createVis(dataset1, dataset2, target) {
 
 
 
-  var Tooltip = d3.select('#graphic')
+  var Tooltip = d3.select('body')
         .append("div")
         .style("opacity", 0)
         .attr("class", "tooltip")
@@ -351,31 +354,19 @@ function createVis(dataset1, dataset2, target) {
           Tooltip
 
             .style("display", "block")
-
             .style("opacity",1)
-
-
-
           d3.select(this)
-
-
-
-
             d3.selectAll(".arcs").filter(function(D){
-
-              return D.name  == d.name})
+              return D.titel  == d.titel})
               .style("stroke", "red")
               .attr("stroke-width",2)
-
             d3.selectAll("text").filter(function(D){
-
                 return D.name  == d.name})
                 .style("fill", "red")
               .attr('font-size', 20)
         }
 
         var mousemove = function(d) {
-
           Tooltip
           // .html("Titel: " + d.titel + "url:" + d.url + "image:" + d.img)
           .style("alignment-baseline", "start")
@@ -383,14 +374,12 @@ function createVis(dataset1, dataset2, target) {
                        "<img src='" + d.img + "' alt='' />" +
                        "</div>")
           .style('background-size','cover')
-          .style("left", (d3.event.clientX-100) + "px")
-          .style("top", (d3.event.clientY-100) + "px")
+          .style("left", (d3.event.clientX+10) + "px")
+.style("top", (d3.event.clientY+10) + "px")
          }
 
         var mouseleave = function(d) {
-
           Tooltip
-
             .style("display", "none")
             .transition()
             .duration(300)
@@ -399,265 +388,486 @@ function createVis(dataset1, dataset2, target) {
               .attr('font-weight', 300)
 .attr('font-size', 15)
 
-
-
           d3.selectAll(".arcs")
-
             // .style("stroke", "none")
-
             .style("opacity", 0.8)
-
             .style("stroke", "black")
-
             .attr("stroke-width",0.5)
-
         }
-
-
-
-
-
 
 // ----------------line SVG
     // Read dummy data
     // Read dummy data
 
 d3.json(dataset1, function(data) {
-
-
-
       // List of node names
-
       var allNodes = data.nodes.map(function(d){return d.name})
-
-
-
       // A linear scale to position the nodes on the X axis
 
       var y = d3.scalePoint()
-
         .range([0, height])
-
         .domain(allNodes)
 
-
-
-
-
       var idToNode = {};
-
       data.nodes.forEach(function (n) {
-
         idToNode[n.id] = n;
-
       });
 
-
-
-
-
-
-
       svg
-
         .selectAll('mylinks')
-
         .data(data.links)
-
         .enter()
-
         .append('path')
-
         .attr("class", "arcs")
-
         .attr('d', function (d) {
-
           start = y(idToNode[d.source].name)
-
           end = y(idToNode[d.target].name)
-
           return ['M', 50, start,
-
             'A',
-
             (start - end)/2*0.4, ',',
-
             (start - end)/4, 10, 0, ',',
-
             start < end ? 1 : 0, 50, ',', end]
-
             .join(' ');
-
         })
-
         .style("fill", "none")
-
         .attr("stroke", "black")
-
         .attr("stroke-width", 0.5)
-
        .on("mouseover", mouseover)
-
        .on("mousemove", mousemove)
-
        .on("mouseleave", mouseleave)
-
 });
 
 
 
 d3.json(dataset2, function( data) {
-
-
-
       // List of node names
-
       var allNodes = data.nodes.map(function(d){return d.name})
 
-
-
       // A linear scale to position the nodes on the X axis
-
       var y = d3.scalePoint()
-
         .range([0, height])
-
         .domain(allNodes)
 
-
-
       // Add the circle for the nodes
-
       // svg
-
       //   .selectAll("mynodes")
-
       //   .data(data.nodes)
-
       //   .enter()
-
       //   .append("circle")
-
       //     .attr("cx", 50)
-
       //     .attr("cy", function(d){ return(y(d.name))})
-
       //     .attr("r", 2)
-
       //     .style("fill", "black")
-
-
-
       // And give them a label
 
       svg
-
         .selectAll("mylabels")
-
         .data(data.nodes)
-
         .enter()
-
         .append("text")
-
           .attr('class', 'person')
-
           .attr("x",60)
-
           .attr("y", function(d){ return(y(d.name))})
-
           .text(function(d){ return(d.name)})
-
           .selectAll("text")
-
           .style("text-anchor", "middle")
-
           .style("alignment-baseline", "start")
-
           .style("fill", "black")
-
           .attr("transform", function(d) {
-
           return "rotate(-45)"});
 
-
-
-
-
-
-
       var idToNode = {};
-
       data.nodes.forEach(function (n) {
-
         idToNode[n.id] = n;
-
       });
 
       // Cool, now if I do idToNode["2"].name I've got the name of the node with id 2
 
-
-
-
-
-
-
         svg
-
           .selectAll('mylinks')
-
           .data(data.links)
-
           .enter()
-
           .append('path')
-
           .attr("class", "arcs")
-
           .attr('d', function (d) {
-
             start = y(idToNode[d.source].name)    // X position of start node on the X axis
-
             end = y(idToNode[d.target].name)      // X position of end node
-
             return ['M', 50, start,    // the arc starts at the coordinate x=start, y=height-30 (where the starting node is)
-
               'A',                            // This means we're gonna build an elliptical arc
-
               (start - end)/2*0.4, ',',    // Next 2 lines are the coordinates of the inflexion point. Height of this point is proportional with start - end distance
-
               (start - end)/4, 10, 0, ',',
 
               start < end ? 0 : 0, 50, ',', end] // We always want the arc on top. So if end is before start, putting 0 here turn the arc upside down.
-
               .join(' ');
-
           })
-
           .style("fill", "none")
-
           .attr("stroke", "black")
-
           .attr("stroke-width", 0.5)
-
          .on("mouseover", mouseover)
-
          .on("mousemove", mousemove)
-
          .on("mouseleave", mouseleave)
+    });
 
+}
+//----------hier ist second createVis
+
+function createVis2(dataset1, dataset2, target) {
+  var svg = d3.select(target)
+                    .append("svg")
+                    .attr("width", width + margin.left + margin.right)
+                    .attr("height", height + margin.top + margin.bottom)
+                    .append("g")
+                    .attr("transform",
+                            "translate(" + margin.left + "," + margin.top + ")");
+
+
+
+  var Tooltip = d3.select('body')
+        .append("div")
+        .style("opacity", 0)
+        .attr("class", "tooltip")
+
+
+        var mouseover = function(d) {
+
+          Tooltip
+
+            .style("display", "block")
+            .style("opacity",1)
+          d3.select(this)
+            d3.selectAll(".arcs").filter(function(D){
+              return D.titel  == d.titel})
+              .style("stroke", "red")
+              .attr("stroke-width",2)
+            d3.selectAll("text").filter(function(D){
+                return D.name  == d.name})
+                .style("fill", "red")
+              .attr('font-size', 20)
+        }
+
+        var mousemove = function(d) {
+          Tooltip
+          // .html("Titel: " + d.titel + "url:" + d.url + "image:" + d.img)
+          .style("alignment-baseline", "start")
+          .html("<div class='user-avatar'>" +
+                       "<img src='" + d.img + "' alt='' />" +
+                       "</div>")
+          .style('background-size','cover')
+          .style("left", (d3.event.clientX+10) + "px")
+.style("top", (d3.event.clientY+10) + "px")
+         }
+
+        var mouseleave = function(d) {
+          Tooltip
+            .style("display", "none")
+            .transition()
+            .duration(300)
+          d3.selectAll("text")
+                .style("fill", "black")
+              .attr('font-weight', 300)
+.attr('font-size', 15)
+
+          d3.selectAll(".arcs")
+            // .style("stroke", "none")
+            .style("opacity", 0.8)
+            .style("stroke", "black")
+            .attr("stroke-width",0.5)
+        }
+
+// ----------------line SVG
+    // Read dummy data
+    // Read dummy data
+
+d3.json(dataset1, function(data) {
+      // List of node names
+      var allNodes = data.nodes.map(function(d){return d.name})
+      // A linear scale to position the nodes on the X axis
+
+      var y = d3.scalePoint()
+        .range([0, height2])
+        .domain(allNodes)
+
+      var idToNode = {};
+      data.nodes.forEach(function (n) {
+        idToNode[n.id] = n;
+      });
+
+      svg
+        .selectAll('mylinks')
+        .data(data.links)
+        .enter()
+        .append('path')
+        .attr("class", "arcs")
+        .attr('d', function (d) {
+          start = y(idToNode[d.source].name)
+          end = y(idToNode[d.target].name)
+          return ['M', 50, start,
+            'A',
+            (start - end)/2*0.4, ',',
+            (start - end)/4, 10, 0, ',',
+            start < end ? 1 : 0, 50, ',', end]
+            .join(' ');
+        })
+        .style("fill", "none")
+        .attr("stroke", "black")
+        .attr("stroke-width", 0.5)
+       .on("mouseover", mouseover)
+       .on("mousemove", mousemove)
+       .on("mouseleave", mouseleave)
+});
+
+
+
+d3.json(dataset2, function( data) {
+      // List of node names
+      var allNodes = data.nodes.map(function(d){return d.name})
+
+      // A linear scale to position the nodes on the X axis
+      var y = d3.scalePoint()
+        .range([0, height2])
+        .domain(allNodes)
+
+      // Add the circle for the nodes
+      // svg
+      //   .selectAll("mynodes")
+      //   .data(data.nodes)
+      //   .enter()
+      //   .append("circle")
+      //     .attr("cx", 50)
+      //     .attr("cy", function(d){ return(y(d.name))})
+      //     .attr("r", 2)
+      //     .style("fill", "black")
+      // And give them a label
+
+      svg
+        .selectAll("mylabels")
+        .data(data.nodes)
+        .enter()
+        .append("text")
+          .attr('class', 'person')
+          .attr("x",60)
+          .attr("y", function(d){ return(y(d.name))})
+          .text(function(d){ return(d.name)})
+          .selectAll("text")
+          .style("text-anchor", "middle")
+          .style("alignment-baseline", "start")
+          .style("fill", "black")
+          .attr("transform", function(d) {
+          return "rotate(-45)"});
+
+      var idToNode = {};
+      data.nodes.forEach(function (n) {
+        idToNode[n.id] = n;
+      });
+
+      // Cool, now if I do idToNode["2"].name I've got the name of the node with id 2
+
+        svg
+          .selectAll('mylinks')
+          .data(data.links)
+          .enter()
+          .append('path')
+          .attr("class", "arcs")
+          .attr('d', function (d) {
+            start = y(idToNode[d.source].name)    // X position of start node on the X axis
+            end = y(idToNode[d.target].name)      // X position of end node
+            return ['M', 50, start,    // the arc starts at the coordinate x=start, y=height-30 (where the starting node is)
+              'A',                            // This means we're gonna build an elliptical arc
+              (start - end)/2*0.4, ',',    // Next 2 lines are the coordinates of the inflexion point. Height of this point is proportional with start - end distance
+              (start - end)/4, 10, 0, ',',
+
+              start < end ? 0 : 0, 50, ',', end] // We always want the arc on top. So if end is before start, putting 0 here turn the arc upside down.
+              .join(' ');
+          })
+          .style("fill", "none")
+          .attr("stroke", "black")
+          .attr("stroke-width", 0.5)
+         .on("mouseover", mouseover)
+         .on("mousemove", mousemove)
+         .on("mouseleave", mouseleave)
     });
 
 }
 
+//----------hier ist third
+
+function createVis3(dataset1, dataset2, target) {
+  var svg = d3.select(target)
+                    .append("svg")
+                    .attr("width", width + margin.left + margin.right)
+                    .attr("height", height + margin.top + margin.bottom)
+                    .append("g")
+                    .attr("transform",
+                            "translate(" + margin.left + "," + margin.top + ")");
 
 
 
+  var Tooltip = d3.select('body')
+        .append("div")
+        .style("opacity", 0)
+        .attr("class", "tooltip")
+
+
+        var mouseover = function(d) {
+
+          Tooltip
+
+            .style("display", "block")
+            .style("opacity",1)
+          d3.select(this)
+            d3.selectAll(".arcs").filter(function(D){
+              return D.titel  == d.titel})
+              .style("stroke", "red")
+              .attr("stroke-width",2)
+            d3.selectAll("text").filter(function(D){
+                return D.name  == d.name})
+                .style("fill", "red")
+              .attr('font-size', 20)
+        }
+
+        var mousemove = function(d) {
+          Tooltip
+          // .html("Titel: " + d.titel + "url:" + d.url + "image:" + d.img)
+          .style("alignment-baseline", "start")
+          .html("<div class='user-avatar'>" +
+                       "<img src='" + d.img + "' alt='' />" +
+                       "</div>")
+          .style('background-size','cover')
+          .style("left", (d3.event.clientX+10) + "px")
+.style("top", (d3.event.clientY+10) + "px")
+         }
+
+        var mouseleave = function(d) {
+          Tooltip
+            .style("display", "none")
+            .transition()
+            .duration(300)
+          d3.selectAll("text")
+                .style("fill", "black")
+              .attr('font-weight', 300)
+.attr('font-size', 15)
+
+          d3.selectAll(".arcs")
+            // .style("stroke", "none")
+            .style("opacity", 0.8)
+            .style("stroke", "black")
+            .attr("stroke-width",0.5)
+        }
+
+// ----------------line SVG
+    // Read dummy data
+    // Read dummy data
+
+d3.json(dataset1, function(data) {
+      // List of node names
+      var allNodes = data.nodes.map(function(d){return d.name})
+      // A linear scale to position the nodes on the X axis
+
+      var y = d3.scalePoint()
+        .range([0, height3])
+        .domain(allNodes)
+
+      var idToNode = {};
+      data.nodes.forEach(function (n) {
+        idToNode[n.id] = n;
+      });
+
+      svg
+        .selectAll('mylinks')
+        .data(data.links)
+        .enter()
+        .append('path')
+        .attr("class", "arcs")
+        .attr('d', function (d) {
+          start = y(idToNode[d.source].name)
+          end = y(idToNode[d.target].name)
+          return ['M', 50, start,
+            'A',
+            (start - end)/2*0.4, ',',
+            (start - end)/4, 10, 0, ',',
+            start < end ? 1 : 0, 50, ',', end]
+            .join(' ');
+        })
+        .style("fill", "none")
+        .attr("stroke", "black")
+        .attr("stroke-width", 0.5)
+       .on("mouseover", mouseover)
+       .on("mousemove", mousemove)
+       .on("mouseleave", mouseleave)
+});
 
 
 
-   // add the squares
+d3.json(dataset2, function( data) {
+      // List of node names
+      var allNodes = data.nodes.map(function(d){return d.name})
 
+      // A linear scale to position the nodes on the X axis
+      var y = d3.scalePoint()
+        .range([0, height3])
+        .domain(allNodes)
+
+      // Add the circle for the nodes
+      // svg
+      //   .selectAll("mynodes")
+      //   .data(data.nodes)
+      //   .enter()
+      //   .append("circle")
+      //     .attr("cx", 50)
+      //     .attr("cy", function(d){ return(y(d.name))})
+      //     .attr("r", 2)
+      //     .style("fill", "black")
+      // And give them a label
+
+      svg
+        .selectAll("mylabels")
+        .data(data.nodes)
+        .enter()
+        .append("text")
+          .attr('class', 'person')
+          .attr("x",60)
+          .attr("y", function(d){ return(y(d.name))})
+          .text(function(d){ return(d.name)})
+          .selectAll("text")
+          .style("text-anchor", "middle")
+          .style("alignment-baseline", "start")
+          .style("fill", "black")
+          .attr("transform", function(d) {
+          return "rotate(-45)"});
+
+      var idToNode = {};
+      data.nodes.forEach(function (n) {
+        idToNode[n.id] = n;
+      });
+
+      // Cool, now if I do idToNode["2"].name I've got the name of the node with id 2
+
+        svg
+          .selectAll('mylinks')
+          .data(data.links)
+          .enter()
+          .append('path')
+          .attr("class", "arcs")
+          .attr('d', function (d) {
+            start = y(idToNode[d.source].name)    // X position of start node on the X axis
+            end = y(idToNode[d.target].name)      // X position of end node
+            return ['M', 50, start,    // the arc starts at the coordinate x=start, y=height-30 (where the starting node is)
+              'A',                            // This means we're gonna build an elliptical arc
+              (start - end)/2*0.4, ',',    // Next 2 lines are the coordinates of the inflexion point. Height of this point is proportional with start - end distance
+              (start - end)/4, 10, 0, ',',
+
+              start < end ? 0 : 0, 50, ',', end] // We always want the arc on top. So if end is before start, putting 0 here turn the arc upside down.
+              .join(' ');
+          })
+          .style("fill", "none")
+          .attr("stroke", "black")
+          .attr("stroke-width", 0.5)
+         .on("mouseover", mouseover)
+         .on("mousemove", mousemove)
+         .on("mouseleave", mouseleave)
+    });
+
+}
 
 
 //---------------

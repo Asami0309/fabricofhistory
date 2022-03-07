@@ -107,7 +107,7 @@
     },
     {
       "id": 16,
-      "name": " Margaret Howell",
+      "name": "Margaret Howell",
       "titel": "description4",
       "url":"https://www.europeana.eu/item/2048213/europeana_fashion_http___collections_vam_ac_uk_item_O93231?utm_source=api&utm_medium=api&utm_campaign=arthappis",
       "img":"https://api.europeana.eu/thumbnail/v2/url.json?uri=http%3A%2F%2Fmedia.vam.ac.uk%2Fmedia%2Fthira%2Fcollection_images%2F2006AL%2F2006AL0566_jpg_l.jpg&type=IMAGE"
@@ -174,7 +174,7 @@
     {
       "source": 9,
       "target": 13,
-      "name": "Bruce Oldfield ",
+      "name": "Bruce Oldfield",
       "titel":"Silk velvet double-breasted coat-dress with mink collar, designed by Bruce Oldfield, Great Britain, 1986.",
       "url":"https://www.europeana.eu/item/2048213/europeana_fashion_http___collections_vam_ac_uk_item_O83557?utm_source=api&utm_medium=api&utm_campaign=arthappis",
       "img":"https://api.europeana.eu/thumbnail/v2/url.json?uri=http%3A%2F%2Fmedia.vam.ac.uk%2Fmedia%2Fthira%2Fcollection_images%2F2011EN%2F2011EN2394_jpg_l.jpg&type=IMAGE"
@@ -182,7 +182,7 @@
     {
       "source": 7,
       "target": 13,
-      "name": "Bruce Oldfield ",
+      "name": "Bruce Oldfield",
       "titel":"Silk velvet double-breasted coat-dress with mink collar, designed by Bruce Oldfield, Great Britain, 1986.",
       "url":"https://www.europeana.eu/item/2048213/europeana_fashion_http___collections_vam_ac_uk_item_O83557?utm_source=api&utm_medium=api&utm_campaign=arthappis",
       "img":"https://api.europeana.eu/thumbnail/v2/url.json?uri=http%3A%2F%2Fmedia.vam.ac.uk%2Fmedia%2Fthira%2Fcollection_images%2F2011EN%2F2011EN2394_jpg_l.jpg&type=IMAGE"
@@ -238,7 +238,7 @@
     {
       "source": 5,
       "target": 18,
-      "name": "Smith, Paul",
+      "name": "Smith Paul",
       "titel":"Cotton twill shirt, designed by Paul Smith, Great Britain, 1988.  White collared shirt of cotton twill with hidden button-down. Cotton twill.",
       "url":"https://www.europeana.eu/item/2048213/europeana_fashion_http___collections_vam_ac_uk_item_O1193486?utm_source=api&utm_medium=api&utm_campaign=arthappis",
       "img":"https://api.europeana.eu/thumbnail/v2/url.json?uri=http%3A%2F%2Fmedia.vam.ac.uk%2Fmedia%2Fthira%2Fcollection_images%2F2006AT%2F2006AT4926_jpg_l.jpg&type=IMAGE"

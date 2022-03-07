@@ -121,7 +121,7 @@
     },
     {
       "id": 18,
-      "name": " Dries van Noten",
+      "name": "Dries van Noten",
       "titel": "description6",
       "url":"https://www.europeana.eu/item/2048213/europeana_fashion_http___collections_vam_ac_uk_item_O93231?utm_source=api&utm_medium=api&utm_campaign=arthappis",
       "img":"https://api.europeana.eu/thumbnail/v2/url.json?uri=http%3A%2F%2Fmedia.vam.ac.uk%2Fmedia%2Fthira%2Fcollection_images%2F2006AL%2F2006AL0566_jpg_l.jpg&type=IMAGE"
@@ -135,7 +135,7 @@
     },
     {
       "id": 20,
-      "name": " Giorgio Armani",
+      "name": "Giorgio Armani",
       "titel": "description7",
       "url":"https://www.europeana.eu/item/2048213/europeana_fashion_http___collections_vam_ac_uk_item_O15645?utm_source=api&utm_medium=api&utm_campaign=arthappis" ,
     "img":"https://api.europeana.eu/thumbnail/v2/url.json?uri=http%3A%2F%2Fmedia.vam.ac.uk%2Fmedia%2Fthira%2Fcollection_images%2F2014HJ%2F2014HJ2813_jpg_l.jpg&type=IMAGE"
@@ -156,104 +156,97 @@
     },
     {
       "id": 23,
-      "name": "Helen David English Eccentrics",
-      "titel": "description7",
-      "url":"https://www.europeana.eu/item/2048213/europeana_fashion_http___collections_vam_ac_uk_item_O15645?utm_source=api&utm_medium=api&utm_campaign=arthappis" ,
-    "img":"https://api.europeana.eu/thumbnail/v2/url.json?uri=http%3A%2F%2Fmedia.vam.ac.uk%2Fmedia%2Fthira%2Fcollection_images%2F2014HJ%2F2014HJ2813_jpg_l.jpg&type=IMAGE"
-    },
-    {
-      "id": 24,
       "name": "Helen Storey",
       "titel": "description7",
       "url":"https://www.europeana.eu/item/2048213/europeana_fashion_http___collections_vam_ac_uk_item_O15645?utm_source=api&utm_medium=api&utm_campaign=arthappis" ,
     "img":"https://api.europeana.eu/thumbnail/v2/url.json?uri=http%3A%2F%2Fmedia.vam.ac.uk%2Fmedia%2Fthira%2Fcollection_images%2F2014HJ%2F2014HJ2813_jpg_l.jpg&type=IMAGE"
   },
   {
-    "id": 25,
+    "id": 24,
     "name": "Henry Poole",
     "titel": "description7",
     "url":"https://www.europeana.eu/item/2048213/europeana_fashion_http___collections_vam_ac_uk_item_O15645?utm_source=api&utm_medium=api&utm_campaign=arthappis" ,
   "img":"https://api.europeana.eu/thumbnail/v2/url.json?uri=http%3A%2F%2Fmedia.vam.ac.uk%2Fmedia%2Fthira%2Fcollection_images%2F2014HJ%2F2014HJ2813_jpg_l.jpg&type=IMAGE"
   },
   {
-    "id": 26,
+    "id": 25,
     "name": "Manolo Blahnik",
     "titel": "description7",
     "url":"https://www.europeana.eu/item/2048213/europeana_fashion_http___collections_vam_ac_uk_item_O15645?utm_source=api&utm_medium=api&utm_campaign=arthappis" ,
   "img":"https://api.europeana.eu/thumbnail/v2/url.json?uri=http%3A%2F%2Fmedia.vam.ac.uk%2Fmedia%2Fthira%2Fcollection_images%2F2014HJ%2F2014HJ2813_jpg_l.jpg&type=IMAGE"
   },
   {
-    "id": 27,
+    "id": 26,
     "name": "Margaret Howell ",
     "titel": "description7",
     "url":"https://www.europeana.eu/item/2048213/europeana_fashion_http___collections_vam_ac_uk_item_O15645?utm_source=api&utm_medium=api&utm_campaign=arthappis" ,
   "img":"https://api.europeana.eu/thumbnail/v2/url.json?uri=http%3A%2F%2Fmedia.vam.ac.uk%2Fmedia%2Fthira%2Fcollection_images%2F2014HJ%2F2014HJ2813_jpg_l.jpg&type=IMAGE"
   },
   {
-    "id": 28,
+    "id": 27,
     "name": "Mark Powell",
     "titel": "description7",
     "url":"https://www.europeana.eu/item/2048213/europeana_fashion_http___collections_vam_ac_uk_item_O15645?utm_source=api&utm_medium=api&utm_campaign=arthappis" ,
   "img":"https://api.europeana.eu/thumbnail/v2/url.json?uri=http%3A%2F%2Fmedia.vam.ac.uk%2Fmedia%2Fthira%2Fcollection_images%2F2014HJ%2F2014HJ2813_jpg_l.jpg&type=IMAGE"
   },
   {
-    "id": 29,
+    "id": 28,
     "name": "Maurizio Galante",
     "titel": "description7",
     "url":"https://www.europeana.eu/item/2048213/europeana_fashion_http___collections_vam_ac_uk_item_O15645?utm_source=api&utm_medium=api&utm_campaign=arthappis" ,
   "img":"https://api.europeana.eu/thumbnail/v2/url.json?uri=http%3A%2F%2Fmedia.vam.ac.uk%2Fmedia%2Fthira%2Fcollection_images%2F2014HJ%2F2014HJ2813_jpg_l.jpg&type=IMAGE"
   },
   {
-    "id": 30,
+    "id": 29,
     "name": "Mulberry",
     "titel": "description7",
     "url":"https://www.europeana.eu/item/2048213/europeana_fashion_http___collections_vam_ac_uk_item_O15645?utm_source=api&utm_medium=api&utm_campaign=arthappis" ,
   "img":"https://api.europeana.eu/thumbnail/v2/url.json?uri=http%3A%2F%2Fmedia.vam.ac.uk%2Fmedia%2Fthira%2Fcollection_images%2F2014HJ%2F2014HJ2813_jpg_l.jpg&type=IMAGE"
   },
   {
-    "id": 31,
+    "id": 30,
     "name": "Nicole Farhi",
     "titel": "description7",
     "url":"https://www.europeana.eu/item/2048213/europeana_fashion_http___collections_vam_ac_uk_item_O15645?utm_source=api&utm_medium=api&utm_campaign=arthappis" ,
   "img":"https://api.europeana.eu/thumbnail/v2/url.json?uri=http%3A%2F%2Fmedia.vam.ac.uk%2Fmedia%2Fthira%2Fcollection_images%2F2014HJ%2F2014HJ2813_jpg_l.jpg&type=IMAGE"
   },
   {
-    "id": 32,
+    "id": 31,
     "name": "Ozwald Boateng",
     "titel": "description7",
     "url":"https://www.europeana.eu/item/2048213/europeana_fashion_http___collections_vam_ac_uk_item_O15645?utm_source=api&utm_medium=api&utm_campaign=arthappis" ,
   "img":"https://api.europeana.eu/thumbnail/v2/url.json?uri=http%3A%2F%2Fmedia.vam.ac.uk%2Fmedia%2Fthira%2Fcollection_images%2F2014HJ%2F2014HJ2813_jpg_l.jpg&type=IMAGE"
   },
   {
-    "id": 33,
+    "id": 32,
     "name": "Paul Smith",
     "titel": "description7",
     "url":"https://www.europeana.eu/item/2048213/europeana_fashion_http___collections_vam_ac_uk_item_O15645?utm_source=api&utm_medium=api&utm_campaign=arthappis" ,
   "img":"https://api.europeana.eu/thumbnail/v2/url.json?uri=http%3A%2F%2Fmedia.vam.ac.uk%2Fmedia%2Fthira%2Fcollection_images%2F2014HJ%2F2014HJ2813_jpg_l.jpg&type=IMAGE"
   },
   {
-    "id": 34,
+    "id": 33,
     "name": "Richard James",
     "titel": "description7",
     "url":"https://www.europeana.eu/item/2048213/europeana_fashion_http___collections_vam_ac_uk_item_O15645?utm_source=api&utm_medium=api&utm_campaign=arthappis" ,
   "img":"https://api.europeana.eu/thumbnail/v2/url.json?uri=http%3A%2F%2Fmedia.vam.ac.uk%2Fmedia%2Fthira%2Fcollection_images%2F2014HJ%2F2014HJ2813_jpg_l.jpg&type=IMAGE"
   },
   {
-    "id": 35,
+    "id": 34,
     "name": "RifatOzbek",
     "titel": "description7",
     "url":"https://www.europeana.eu/item/2048213/europeana_fashion_http___collections_vam_ac_uk_item_O15645?utm_source=api&utm_medium=api&utm_campaign=arthappis" ,
   "img":"https://api.europeana.eu/thumbnail/v2/url.json?uri=http%3A%2F%2Fmedia.vam.ac.uk%2Fmedia%2Fthira%2Fcollection_images%2F2014HJ%2F2014HJ2813_jpg_l.jpg&type=IMAGE"
   },
   {
-    "id": 36,
+    "id": 35,
     "name": "Shirin Guild",
     "titel": "description7",
     "url":"https://www.europeana.eu/item/2048213/europeana_fashion_http___collections_vam_ac_uk_item_O15645?utm_source=api&utm_medium=api&utm_campaign=arthappis" ,
   "img":"https://api.europeana.eu/thumbnail/v2/url.json?uri=http%3A%2F%2Fmedia.vam.ac.uk%2Fmedia%2Fthira%2Fcollection_images%2F2014HJ%2F2014HJ2813_jpg_l.jpg&type=IMAGE"
   },
   {
-    "id": 37,
+    "id": 36,
     "name": "Workers for Freedom",
     "titel": "description7",
     "url":"https://www.europeana.eu/item/2048213/europeana_fashion_http___collections_vam_ac_uk_item_O15645?utm_source=api&utm_medium=api&utm_campaign=arthappis" ,
@@ -283,7 +276,7 @@
     {
       "source": 3,
       "target": 15,
-      "name": "Claire Tranter ",
+      "name": "Claire Tranter",
       "titel":"Sheepskin waistcoat, designed by Claire Tranter, London, 1993.",
       "url":"https://www.europeana.eu/item/2048213/europeana_fashion_http___collections_vam_ac_uk_item_O164810?utm_source=api&utm_medium=api&utm_campaign=arthappis",
       "img":"https://api.europeana.eu/thumbnail/v2/url.json?uri=http%3A%2F%2Fmedia.vam.ac.uk%2Fmedia%2Fthira%2Fcollection_images%2F2006AT%2F2006AT2790_jpg_l.jpg&type=IMAGE"
@@ -335,7 +328,7 @@
     {
       "source": 5,
       "target": 19,
-      "name": "Gieves & Hawkes ",
+      "name": "Gieves & Hawkes",
       "titel":"Mess suit consisting of a woollen jacket, waistcoat, trousers and braces, made by Gieves & Hawkes, London, 1996.",
       "url":"https://www.europeana.eu/item/2048213/europeana_fashion_http___collections_vam_ac_uk_item_O164838?utm_source=api&utm_medium=api&utm_campaign=arthappis",
       "img":"https://api.europeana.eu/thumbnail/v2/url.json?uri=http%3A%2F%2Fmedia.vam.ac.uk%2Fmedia%2Fthira%2Fcollection_images%2F2006AN%2F2006AN3674_jpg_l.jpg&type=IMAGE"
@@ -343,7 +336,7 @@
     {
       "source": 3,
       "target": 19,
-      "name": "Gieves & Hawkes ",
+      "name": "Gieves & Hawkes",
       "titel":"Mess suit consisting of a woollen jacket, waistcoat, trousers and braces, made by Gieves & Hawkes, London, 1996.",
       "url":"https://www.europeana.eu/item/2048213/europeana_fashion_http___collections_vam_ac_uk_item_O164838?utm_source=api&utm_medium=api&utm_campaign=arthappis",
       "img":"https://api.europeana.eu/thumbnail/v2/url.json?uri=http%3A%2F%2Fmedia.vam.ac.uk%2Fmedia%2Fthira%2Fcollection_images%2F2006AN%2F2006AN3674_jpg_l.jpg&type=IMAGE"
@@ -367,7 +360,7 @@
     {
       "source": 10,
       "target": 20,
-      "name": "  Giorgio Armani",
+      "name": "Giorgio Armani",
       "titel":"Scarf of cream silk and linen with open weave and fringed ends. Shirt of cream cotton long sleeved shirt with pleated bib at front. Collarless, with a long, tunic-like shape. Jacket of collarless tan linen cotton with a slit pocket at the chest and two hip pockets. Trousers of  tan linen and cotton.",
       "url":"https://www.europeana.eu/item/2048213/europeana_fashion_http___collections_vam_ac_uk_item_O1194253?utm_source=api&utm_medium=api&utm_campaign=arthappis",
       "img":"https://api.europeana.eu/thumbnail/v2/url.json?uri=http%3A%2F%2Fmedia.vam.ac.uk%2Fmedia%2Fthira%2Fcollection_images%2F2013GK%2F2013GK2381_jpg_l.jpg&type=IMAGE"
@@ -392,16 +385,14 @@
     {
       "source": 10,
       "target": 21,
-      "name": "Hackett",
       "titel":"Man's shirt, white and blue checked cotton, Great Britain, Hackett, 1996.",
       "url":"https://www.europeana.eu/item/2048213/europeana_fashion_http___collections_vam_ac_uk_item_O1193531?utm_source=api&utm_medium=api&utm_campaign=arthappis",
       "img":"https://api.europeana.eu/thumbnail/v2/url.json?uri=http%3A%2F%2Fmedia.vam.ac.uk%2Fmedia%2Fthira%2Fcollection_images%2F2006BC%2F2006BC1949_jpg_l.jpg&type=IMAGE"
-
     },
     {
       "source": 10,
       "target": 22,
-      "name": " Hamish Morrow",
+      "name": "Hamish Morrow",
       "titel":"Woman's blue satin trouser suit with ostrich-feather trimmed organza blouse, designed by Hamish Morrow, London, 1993.",
       "url":"https://www.europeana.eu/item/2048213/europeana_fashion_http___collections_vam_ac_uk_item_O164599?utm_source=api&utm_medium=api&utm_campaign=arthappis",
       "img":"https://api.europeana.eu/thumbnail/v2/url.json?uri=http%3A%2F%2Fmedia.vam.ac.uk%2Fmedia%2Fthira%2Fcollection_images%2F2006AT%2F2006AT2799_jpg_l.jpg&type=IMAGE"
@@ -410,7 +401,7 @@
     {
       "source": 10,
       "target": 23,
-      "name": " Helen Storey",
+      "name": "Helen Storey",
       "titel":"Trouser suit, Lyocell (Tencel), designed by Helen Storey, London, 1993.",
       "url":"https://www.europeana.eu/item/2048213/europeana_fashion_http___collections_vam_ac_uk_item_O233660?utm_source=api&utm_medium=api&utm_campaign=arthappis",
       "img":"https://api.europeana.eu/thumbnail/v2/url.json?uri=http%3A%2F%2Fmedia.vam.ac.uk%2Fmedia%2Fthira%2Fcollection_images%2F2006AT%2F2006AT2789_jpg_l.jpg&type=IMAGE"
@@ -477,7 +468,7 @@
     },
     {
       "source": 7,
-      "target": 30,
+      "target": 29,
       "name": "Mulberry",
       "titel":"Aubusson",
       "url":"https://www.europeana.eu/item/2048213/europeana_fashion_http___collections_vam_ac_uk_item_O84316?utm_source=api&utm_medium=api&utm_campaign=arthappis",
@@ -485,7 +476,7 @@
     },
     {
       "source": 9,
-      "target": 31,
+      "target": 30,
       "name": "Nicole Farhi",
       "titel":"Knitted wool jersey coat and skirt, designed by Nicole Farhi, Great Britain, 1996.",
       "url":"https://www.europeana.eu/item/2048213/europeana_fashion_http___collections_vam_ac_uk_item_O83994?utm_source=api&utm_medium=api&utm_campaign=arthappis",
@@ -493,7 +484,7 @@
     },
     {
       "source": 7,
-      "target": 31,
+      "target": 30,
       "name": "Nicole Farhi",
       "titel":"Knitted wool jersey coat and skirt, designed by Nicole Farhi, Great Britain, 1996.",
       "url":"https://www.europeana.eu/item/2048213/europeana_fashion_http___collections_vam_ac_uk_item_O83994?utm_source=api&utm_medium=api&utm_campaign=arthappis",
@@ -501,15 +492,15 @@
     },
     {
       "source": 5,
-      "target": 32,
-      "name": " Ozwald Boateng",
+      "target": 31,
+      "name": "Ozwald Boateng",
       "titel":"Man's suit consisting of a jacket and trousers in wool, polyester and mohair, designed by Ozwald Boateng, Great Britain, 1996.",
       "url":"https://www.europeana.eu/item/2048213/europeana_fashion_http___collections_vam_ac_uk_item_O110812?utm_source=api&utm_medium=api&utm_campaign=arthappis",
       "img":"https://api.europeana.eu/thumbnail/v2/url.json?uri=http%3A%2F%2Fmedia.vam.ac.uk%2Fmedia%2Fthira%2Fcollection_images%2F2006AN%2F2006AN3798_jpg_l.jpg&type=IMAGE"
     },
     {
       "source": 5,
-      "target": 33,
+      "target": 32,
       "name": "Paul Smith",
       "titel":"True Brit",
       "url":"https://www.europeana.eu/item/2048213/europeana_fashion_http___collections_vam_ac_uk_item_O236409?utm_source=api&utm_medium=api&utm_campaign=arthappis",
@@ -517,7 +508,7 @@
     },
     {
       "source": 5,
-      "target": 34,
+      "target": 33,
       "name": "Richard James",
       "titel":"Woollen suit, designed by Richard James, Great Britain, 1994.",
       "url":"https://www.europeana.eu/item/2048213/europeana_fashion_http___collections_vam_ac_uk_item_O84711?utm_source=api&utm_medium=api&utm_campaign=arthappis",
@@ -525,7 +516,7 @@
     },
     {
       "source": 9,
-      "target": 35,
+      "target": 34,
       "name": "RifatOzbek",
       "titel":"White wool coat with velvet epaulettes and ikat silk twill trim, designed by Rifat Ozbek, London, 1992.",
       "url":"https://www.europeana.eu/item/2048213/europeana_fashion_http___collections_vam_ac_uk_item_O83999?utm_source=api&utm_medium=api&utm_campaign=arthappis",
@@ -533,7 +524,7 @@
     },
     {
       "source": 7,
-      "target": 35,
+      "target": 34,
       "name": "RifatOzbek",
       "titel":"White wool coat with velvet epaulettes and ikat silk twill trim, designed by Rifat Ozbek, London, 1992.",
       "url":"https://www.europeana.eu/item/2048213/europeana_fashion_http___collections_vam_ac_uk_item_O83999?utm_source=api&utm_medium=api&utm_campaign=arthappis",
@@ -541,7 +532,7 @@
     },
     {
       "source": 3,
-      "target": 36,
+      "target": 35,
       "name": "Shirin Guild",
       "titel":"Ensemble comprising a linen vest, two linen jackets, and linen trousers, designed by Shirin Guild, Britain, 1996.",
       "url":"https://www.europeana.eu/item/2048213/europeana_fashion_http___collections_vam_ac_uk_item_O84003?utm_source=api&utm_medium=api&utm_campaign=arthappis",
@@ -549,7 +540,7 @@
     },
     {
       "source": 3,
-      "target": 37,
+      "target": 36,
       "name": "Workers for Freedom",
       "titel":"Waistcoat of embroidered cotton, Workers for Freedom, Great Britain, 1991.",
       "url":"https://www.europeana.eu/item/2048213/europeana_fashion_http___collections_vam_ac_uk_item_O360377?utm_source=api&utm_medium=api&utm_campaign=arthappis",
